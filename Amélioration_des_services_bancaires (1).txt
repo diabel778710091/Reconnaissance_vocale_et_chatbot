@@ -1,0 +1,1057 @@
+                                                                           
+ 
+                                       Université Cheikh Anta Diop
+                                      Ecole Supérieure Polytechnique
+                                           Département de Gestion
+                           Licence en Sciences et Techniques de Gestion
+                              Spécialité : Banque Finance Assurance
+
+Projet tutoré
+
+
+Thème : Amélioration de la stratégie de communication digitale : cas de la Société Générale 
+
+Présenté par :                                                                                      Sous la direction :
+El Hadji Diabel DIENG                                                                     M. DIOP Mamadou
+                                                                                                                  Docteur En Économie
+                                                                                                           Maitre-Assistant CAMES   
+
+
+
+
+Année Universitaire : 2022-2023
+
+
+
+
+
+
+
+REMERCIEMENTS
+
+Nous tenons à remercier tout particulièrement et à témoigner notre reconnaissance à M. DIOP, notre tuteur pédagogique pour l'aide qu'il nous a apporté durant ses derniers mois. Sa disponibilité, sa pédagogie et ses conseils nous ont été précieux dans nos choix de conception et d'élaboration de nos programmes.
+Nous remercions également M. Mamadou DIOUF docteur en marketing et communication pour toutes les informations qu'il a mis à notre disposition afin de pouvoir mener à bien notre projet.
+Nous remercions par ailleurs notre entourage, plus particulièrement nos familles et nos amis pour leur soutien et leurs encouragements.
+Nous tenons également à remercier toutes les personnes qui de près ou de loin ont participé à la réalisation de ce projet.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SIGLES ET ABRÉVIATIONS
+
+ADSL : Asymmetric Digital Subscriber Line
+ARTB : agence de régulation des télécommunications et des postes)
+BCEAO : banque centrale des etas de l'afrique de l'ouest 
+CDP : plate-forme de données client 
+CEO : chefs exécutifs officieux 
+CGFO : câble de garde à fibres optiques
+DAB: distributeur automatique de billets 
+FRTB : Fundamental Review of the Trading Book
+GAB : Guichet Automatique Bancaire
+MOFF : Menace Opportunité Force Faiblesse
+Néo-banques : Banques sans agences physiques
+NTIC :  nouvelles technologies de l'information et de la communication
+NTIC : Nouvelles Technologies de l'Information et de la Communication
+OMVS : organisation pour la mise en valeur du fleuve Sénégal
+PESTEL : Politiques, Economiques, Sociaux, Technologiques, Environnementaux et     Légaux
+PIB : produit intérieure brute 
+PME : petit et moyen entreprise
+PME : Petites et Moyennes Entreprises
+PNB produit national brut
+RACE IT : Respect, Acte Responsable, Clients en priorité, Excellence, Intégrité
+RH : Ressources Humaines SWOT : Strengths Weakness Opportunities Threats
+RNIS :  Réseau Numérique à Intégration de Services
+RSE :  responsabilité sociétale des entreprises
+SA: société anonyme  
+SAT-3/WASC/SAFE
+SONATEL : société national de télécommunication  
+TER : train express régional 
+UEMOA union economique et monetaire ouest africain
+VSAT : Very Small Aperture Terminal
+
+
+SOMMAIRE
+
+
+INTRODUCTION	1
+
+PREMIERE PARTIE : Présentation de l'entreprise Société Générale  et analyse de son environnement	2
+Chapitre 1 : PRESENTATION DE LA Société Générale	2
+Chapitre 2 : Analyse de l'environnement	9
+
+SECONDE PARTIE : Processus d'amélioration de la stratégie de communication digitale pour la Société Générale	30
+Chapitre 1 : Analyse de la stratégie de communication digitale de la Société générale	30
+Chapitre 2 : Les pistes d'amélioration de la stratégie de communication digitale de la Société générale	39
+
+Conclusion	60
+
+Bibliographie	V
+Webographie	V
+
+
+
+
+
+
+
+
+
+RESUME
+l'objectif général de ce projet se porte sur l'amélioration de la  stratégie de communication digitale de la société générale ainsi que des recommandations qui permettrons a l'entreprise de pouvoir améliorer sa communication avec sa clientèle. Pour pourvoir améliorer sa stratégie de communication, nous avons principalement utilisée les outils suivants : la méthode d'analyse de PESTEL à travers laquelle nous avons analysée l'environnement politique, économique, social, technologique, écologique et légal, nous avons aussi utilisée la méthode d'analyse SWOT qui permet de déterminer les options offertes dans un domaine d'activité stratégique. L'analyse des forces et faiblesses, menaces et opportunités. Cette étude nous permettra de proposer a l'entreprise un plan d'amélioration de sa communication digitale ainsi que des recommandations primordiales afin de permettre à la société de perfectionner sa communication digitale
+
+Mots clés : Digitalisation, stratégie , communication 
+
+
+ABSTRACT
+The general objective of this project is to improve the digital communication strategy of Société Générale as well as recommendations that will allow the company to improve its communication with its customers. To be able to improve its communication strategy, we mainly used the following tools: the PESTEL analysis method through which we analyzed the political, economic, social, technological, ecological and legal environment, we also used the SWOT analysis that helps determine the options available in a strategic business area. Analysis of strengths and weaknesses, threats and opportunities. This study will allow us to propose to the company a plan to improve its digital communication as well as essential recommendations in order to allow the company to improve its digital communication.
+
+Keywords: Digitalization, strategy, communication
+
+
+INTRODUCTION
+La banque est un secteur qui contribue au développement économique du pays. Ce secteur se trouve percuté comme les autres par l'irruption des nouvelles technologies et subit lui aussi la transformation digitale. De plus on constate une population multi-équipée qui utilise et préfère le Smartphone ou les tablettes pour se connecter. Ainsi le nombre d'écrans par foyer et même par personne ne cesse de croitre augmentant de ce fait les connexions.
+La digitalisation offre aux clients tous les services traditionnellement disponibles via une succursale locale numérisée , y compris les dépôts, les virements et les paiements de factures en ligne. En effet, l'internet est de nos jours l'un des outils informatiques les plus utilisés. Le nombre d'internautes au Sénégal et dans le monde ne cesse d'augmenter. Les NTIC ont transformé la façon dont les banques opèrent, interagissent avec leurs clients et fournissent des services financiers, cependant elle présente des défis en matière de cybersécurité et de protection de la vie privée.
+En effet, il y'a moins d'accès sur le site web entrainant a un manque de visibilité entre l'entreprise et les consommateurs mais aussi un manque d'information des clients sur la plateforme. Il s'y ajoute un moyen de communication limité, une absence de protection du site e-Banking, les clients ne sont pas assez sensibilisés contre les risques de fraudes absence de limitation de plafond sur les virements de masse à travers e-Banking.
+C'est dans cette logique que nous nous posons la question de savoir comment améliorer la stratégie de communication digitale de la société générale ? Ce projet se fixe pour objectif d'améliorer la stratégie de communication digitale de la société générale. Pour mener à bien notre travail plusieurs outils méthodologiques ont été utilisés : 
+- un diagnostic stratégique interne qui étudie les forces et les faiblesses de l'entreprise 
+- un diagnostic externe qui étudie ses opportunités et les menaces
+- et un guide d'entretien
+
+C'est ainsi que dans une première partie, il s'agira de faire une présentation de l'entreprise Société générale et une analyse de son environnement ; et dans une seconde partie, nous procèderons à faire une analyse de la communication digitale et amener des éléments d'amélioration de la stratégie de communication digitale de notre entreprise. C'est ainsi que dans une première partie, il s'agira de faire une présentation de l'entreprise Société Générale et une analyse de son environnement ; et dans une seconde partie, nous procèderons à un processus d'amélioration de la stratégie de communication digitale pour la Société Générale.
+
+PREMIERE PARTIE : Présentation de l'entreprise Société Générale  et analyse de son environnement
+
+Dans cette première partie, nous allons présenter l'entreprise en décrivant ses activités, son organisation, son secteur et ensuite faire une analyse de son environnement.
+Chapitre 1 : PRESENTATION DE LA Société Générale
+1.1 PRESENTATION DE L'ACTIVITE
+Banque de référence au Sénégal, Société Générale Sénégal exerce depuis 1962 à travers son réseau d'agences qui fait d'elle une banque de proximité. Elle intervient dans tous les secteurs de l'économie sénégalaise, se positionnant ainsi en acteur majeur du développement.
+Grâce à un modèle de banque universelle, elle offre un large spectre de produits et de services. L'innovation commerciale et technologique est au cœur de sa stratégie de développement, et elle met à disposition des investisseurs des solutions appropriées afin de les accompagner pleinement dans leurs projets d'internationalisation.
+La Société Générale est une SA qui comprend plus de 177000 clients, dont les 2000 sont des entreprises. L'entreprise dispose d'environ 800 collaborateur, près de 40 agences dans la région de Dakar et le reste du Sénégal et 56 DAB repartis dans le territoire national dont plus d'un tiers du capital est détenu par les privés sénégalais ( soit 35,13% du capital ).
+
+ 
+
+
+1.2 ORGANISATION DE LA Société Générale  
+La Société Générale dispose d'un conseil d'administration et 10 grandes directions qui l'aident à dérouler aisément l'activité.
+Le directeur général est en parfaite collaboration avec le CEO chargé de procéder aux contrôles des différentes directions et de toutes les procédures du travail requises avant la commercialisation des services bancaires.
+1.2.1 les directions
+1.2.1.1  Direction générale
+Le directeur général est responsable de la gestion financière et administrative de la banque. Mettre en place une stratégie pour sa banque en accord avec la direction générale.
+1.2.1.2 Direction juridique
+Elle consiste à assister les entités du Groupe dans la gestion de leurs risques juridiques et respecter les obligations fiscales 
+Mission des juristes bancaires
+Prévenir et régler les contentieux.
+Assister les opérationnels dans leurs négociations.
+Rédiger les actes et les contrats.
+Mission des fiscalistes bancaires
+Fiscaliste Groupe
+Le spectre des missions est large. Le fiscaliste a des obligations déclaratives et de paiement à l'administration et apporte une assistance fiscale à l'ensemble des métiers. 
+Fiscaliste Conseil
+La mission est double. D'une part, le fiscaliste travaille avec les équipes commerciales qui sollicitent pour conseiller et assister leurs clients dans leurs problématiques fiscales, dont le volet patrimonial. D'autre part, il délivre une expertise de conseil fiscal aux équipes chargées de développer les nouveaux produits, afin de veiller au respect des obligations fiscales.
+1.2.1.3 Direction risque
+La direction risques est un peu le service de prévention des risques financiers de l'entreprise. Son rôle est de développer des outils d'aide à la prise de décision stratégique et de planifier le développement de l'entreprise, en collaboration avec le dirigeant ou le service de la direction générale. 
+Mission des modélisateurs risques
+Conception de modèles : modélisations statistiques en cohérence avec la réglementation bancaire et les besoins des métiers.
+Partage d'expertise : accompagnement des métiers dans la compréhension de l'application de la réglementation.
+Innovation : contribuer au développement des solutions de data-science mises en place dans le cadre des nouveaux projets de gestion de la banque.
+-La mission Analyste Risques sur Opérations de Marché
+Analyser les facteurs de risques liées aux activités de trading
+Définir les limites de risques à respecter par les opérateurs
+Participer à la mise en place de nouvelles méthodologies d'analyse de risque et étudier les impacts des nouvelles réglementations (FRTB, Volcker...)
+Développer des outils d'automatisation, d'optimisation et d'analyse des différents indicateurs (développements limités, projections...)
+Proposer des outils toujours plus performants et innovants
+1.2.1.4 Direction financière
+La direction financière apporte une contribution majeure à la création de valeur du Groupe. Elle recouvre l'ensemble des métiers de la finance (comptabilité et production réglementaire, contrôle de gestion, gestion du bilan, trésorerie, communication financière) et pilote certains des processus clés du groupe (budget, plan stratégique et financier, arrêtés des comptes). 
+- Mission du contrôleur financier
+Piloter et superviser le dispositif de contrôle global.
+Vérifier que les comptes sont complets et conformes pour les publier tous les trimestres.
+Participer à l'élaboration de plans d'action sur les zones à risques et à la digitalisation des processus.
+-Mission du contrôleur de gestion
+Production d'états financiers, prévisions et analyses de performances, suivi des revenus, pilotage des coûts et des ressources rares (capital, liquidité, bilan).
+Réalisation d'analyses visant à répondre au besoin de pilotage du Groupe.
+Planification et animation du cycle budgétaire.
+-Mission chargée de reporting réglementaire
+La production des indicateurs de pilotage interne et des reportings réglementaires.
+Le contrôle de la qualité des données, la production d'indicateurs, leur analyse et la restitution auprès du régulateur ou des métiers de la banque.
+Les grands projets tels que l'évolution du Système d'Information Risque-Finance et Liquidité.
+
+1.2.1.5  Les métiers de la conformité
+les normes et les règles bancaires évoluent en permanence.
+Au sein de la direction de la conformité,  trois domaines sont à l'assiette  la sécurité financière, la conformité réglementaire, le contrôle.
+-Mission référent conformité
+Le référent joue un rôle de conseil auprès des métiers en les accompagnant dans la mise en œuvre de leurs obligations sur un ou plusieurs des 5 risques de conformité réglementaire :
+La protection de la clientèle
+L'intégrité des marchés
+La transparence fiscale
+La lutte contre la corruption
+Le traitement et la conservation des données
+-Mission analyste sécurité financière
+Examiner les dossiers clients et les transactions : instruction dans le respect de la réglementation et des règles internes, avis, suivi, etc.
+Gérer les alertes et les incidents : qualification, déclarations de soupçon, recommandations.
+Sensibiliser les équipes à la sécurité financière : méthodes de travail, diffusion des standards Groupe.
+1.2.1.6  Direction clientèle particuliers et professionnel
+Particuliers
+Accompagner les clients dans tous les moments clés de leur vie : achat immobilier, premier emploi, retraite, transmission, études des enfants, etc... Votre parfaite connaissance des produits et des services de la Société Générale destinés aux particuliers fait de vous un partenaire de choix.
+Professionnel
+Accompagne dans le développement des activités professionnelles. Pouvant lire un bilan, étudier une demande de financement, déclencher une avance de trésorerie, etc...
+Missions des particuliers et professionnels
+Connaître et promouvoir nos services qui comptent parmi les plus innovants du marché (ouverture de compte par reconnaissance faciale, carte à cryptogramme dynamique, application bancaire, etc.).
+Détecter les besoins des clients, les conseiller sur les produits et services les plus adaptés à leurs besoins (investissements, épargnes, placements, etc.).
+Contribuer à développer le PNB de votre agence.
+Guider les clients dans l'usage des services digitaux pour leurs opérations bancaires quotidiennes.
+Maîtriser le risque de crédit et les risques opérationnels
+Conseiller les clients et prospects sur les produits et services les plus adaptés à leurs besoins.
+Contribuer activement au développement du fonds de commerce.
+Développer une parfaite connaissance de votre portefeuille clients grâce à l'écoute et aux outils de gestion et d'analyse mis à disposition.
+Maîtriser les risques pour la banque et pour les clients et agir dans le respect des règles de conformité.
+1.2.1.7 Direction commercial entreprises
+Avoir la responsabilité d'un portefeuille d'entreprises sur une zone géographique, rencontrer régulièrement les chefs d'entreprise, valider leurs projets d'investissement (matériel, bâtiments, etc.), leurs ambitions de croissance externe, etc. être aussi à leurs côtés en cas de difficulté pour déclencher une facilité de trésorerie, sécuriser les opérations import-export, etc.
+- Mission direction commercial entreprises
+Connaître les clients de votre portefeuille et suivre leur rentabilité.
+Savoir identifier leurs besoins et leur potentiel, et construire les dossiers de financement.
+Prospecter sur votre périmètre géographique et contribuer au développement du PNB de votre entité.
+Maîtriser les risques liés à votre activité et en assurer le suivi.
+1.2.1.8 Direction de l'audit
+Faire escale dans différents métiers, brainstormer, analyser des données, cartographier des risques, faire des recommandations stratégiques, il comprend un auditeur interne et un consultant interne. 
+-Mission auditeur interne  et consultant interne 
+Assurer l'efficacité du dispositif de contrôle interne.
+Participer à l'élaboration de diagnostics, rédiger des rapports d'audit.
+Faire des recommandations et suivre leur mise en œuvre.
+Accompagner la réflexion stratégique au niveau Groupe ou de ses entités en tenant compte des nouvelles opportunités et tendances : RSE, Data, IA, lancement de nouvelles offres...
+Structurer et déployer les démarches d'efficacité opérationnelle des métiers du Groupe : target operating model, agilité, excellence opérationnelle...
+Cadrer, outiller et piloter les programmes de transformation majeurs pour le Groupe
+Structurer et conduire la gestion du changement au sein des entités
+Contribuer à la dynamique du cabinet en participant aux travaux internes de développement
+1.2.1.9 Direction marketing, communication et qualité
+Les missions et responsabilités sont variées et consistent, notamment à : Proposer les produits bancaires, financiers adaptés à la clientèle. Appliquer la stratégie commerciale et développer la fidélisation des clients. Développer, conseiller et animer un portefeuille clients
+-Mission du marketing 
+Connaissance du marché et veille stratégique. ...
+Définition de la marque globale et des produits. ...
+Élaboration et mise en œuvre de la politique commerciale. ...
+Élaboration et mise en œuvre des méthodes marketing. ...
+Organisation, coordination et animation de l'équipe marketing
+1.2.1.10 Direction des ressources humaines
+Il peut aussi bien s'agir de recrutement, de rémunération ou encore de gestion des carrières. Mais ce ne sont pas les seules tâches qui lui sont adressées. Il doit également contrôler l'application des obligations légales et réglementaires relatives aux conditions ainsi qu'aux relations de travail.
+-Mission de la RH
+Établir les fiches de paie?;
+Gérer les demandes de congé?;
+Veiller au respect des obligations légales?;
+La gestion des contrats de travail
+1.2.2  Partenaires 
+La Société Générale est une entreprise qui est en partenariat avec d'autres entités comme les transfert d'argent, Les infrastructures de l'Etat , PME, Commerces, etc.
+les Transferts d'argent : YUP 
+Les infrastructures de l'Etat  : Stade Maitre Abdoulaye WADE ; 
+Petites et moyennes entreprises ( PME ) : GAINDE 2000
+Autorité Administrative Indépendante : CDP 
+Commerce : Gourmandine, Maison Eric Kayser - Dakar - Casino Sénégal, Librairie 4 Vents, Auchan, Pullman, Dakar Teranga, La Royaltine - Dakar Casino du Cap Vert , Sénégalaise de l'Automobile
+
+
+
+    
+ 
+ 
+              
+
+1.2.3 Mission de la SOCIETE GENERAL
+Pour élargir son activité, la Société Générale a défini certaines missions comme :
+Protéger et gérer l'épargne,
+Financer les projets,
+Protéger les clients dans leur vie et dans leurs activités,
+Sécuriser les échanges,
+Offrir les meilleures solutions technologiques.
+1.3 PRESENTATION DU SECTEUR
+1.3.1 Offre du secteur
+Une entreprise, pour offrir un service de qualité doit maitriser sa cible et connaitre les attentes de ses clients. C'est le cas de notre entreprise Société Générale qui est, un des tout premiers groupes européens de services financiers et acteur important de l'économie depuis plus de 150 ans, accompagne au quotidien 25 millions de clients grâce à ses plus de 117 000 collaborateurs présents dans 66 pays.
+SOCETE GENERALE s'appuie sur ses racines européennes pour développer ses activités sur le plan international. Son positionnement géographique unique permet de connecter l'Europe et l'Afrique avec les grands centres financiers mondiaux en Asie et en Amérique.
+Le Groupe allie solidité financière, dynamique d'innovation et stratégie de croissance durable avec pour objectif la création de valeur pour l'ensemble de ses parties prenantes. Il s'engage en partenaire de confiance dans les projets de ceux qui bâtissent aujourd'hui le monde de demain.
+1.3.2 Demande du secteur
+On retrouve ici des catégories de clients :
+Les Commerces : comme Gourmandine - Maison Eric Kayser - Dakar - Casino Sénégal Librairie Aux 4 Vents - Auchan - Pullman - Dakar Teranga-La Royaltine - Dakar Casino du Cap Vert - Sénégalaise de l'Automobile , etc. un responsable est dédié à ce secteur pour un bon recouvrement.
+Les Grandes Entreprises commerciales qui bénéficient souvent des crédits documentaires pour leurs importations et exportations  
+L'Etat : pour l'investissement de l'économie nationale 
+Les Ménages : Ce sont ceux sont les particuliers, et les fonctionnaires  
+1.3.3 Enjeux du secteur
+Malgré la forte concurrence au sein du secteur bancaire la Société Générale continue toujours à gagner le cœur des sénégalais. Après Ecobank, elle occupe la deuxième position sur le classement des groupes bancaires de la zone UEMOA en 2021.
+
+Chapitre 2 : Analyse de l'environnement
+Selon R. DE BRUECKER, spécialiste en science des organisation (1995, P.26), " l'environnement de l'entreprise est défini par rapport à tout ce qui est situé en dehors : la technologie, la nature des produits, les clients et les concurrents, les autres organisations, le climat politique et économique, etc. ". Elle a simultanément des objectifs externes et internes.
+2.1 : Analyse de l'environnement interne
+Le Diagnostic interne est la première étape de l'analyse stratégique. Mener un diagnostic interne permet d'identifier les forces qui expliquent la réussite de l'entreprise ainsi que ses faiblesses. 
+Pointer les ressources et compétences de l'entreprise qui constituent ses atouts permet de les renforcer et ainsi se démarquer toujours de la concurrence. L'identification des faiblesses de l'entreprise lui permet de les combler et ainsi de prendre les bonnes décisions pour rester compétitive. 
+2.1.1 Diagnostic des ressources 
+Dans l'approche développée par Edith Penrose en 1959, nous avons trois types de ressources dans une entreprise : des ressources tangibles, intangibles et stratégiques.
+2.1.1.1 Les ressources tangibles 
+Ce sont les actifs observables et matériels nécessaires à la réalisation de l'activité de l'entreprise. Notre entreprise dispose d'importantes ressources comme des ordinateurs et toute autre machine pour développer l'image de sa marque.
+Les ressources tangibles sont réparties comme suit : 
+2.1.1.1.1 ressources financières
+Dans le cadre des orientations définies par la Direction générale, la Direction financière a pour missions de définir, promouvoir, mettre en œuvre et contrôler les divers aspects de la gestion financière et comptable et d'assurer le pilotage financier de la Société Générale afin d'optimiser sa rentabilité à court et moyen terme.
+La Direction financière comprend :
+- le service Comptabilité  ;
+- le service Contrôle de gestion  ;
+- le service Trésorerie
+2.1.1.1.2 Les ressources humaines 
+Avec plus de 800 collaborateurs, le personnel de la Société Générale est une population jeune avec une moyenne d'âge de 25 ans et les femmes représentent 60%. Avec un niveau d'étude aujourd'hui très élevée, passant de bac+2 au Master II, le personnel est composé d'agents, de
+cadres moyens et de cadres supérieurs.
+Sa politique de fonction se repose essentiellement sur :
+Le recrutement
+L'intégration
+La rémunération
+L'évolution professionnelle et formation
+La Couverture sociale et avantages
+Dans l'ensemble, il y a un bon esprit et les conditions sont assez réunies pour mener à bien son travail. On a constaté qu'il y a aussi un engagement particulier de la part des collaborateurs même si le travail est lourd parfois et les suit jusqu'à leurs domiciles.
+2.1.1.1.3 ressources physiques et équipement
+Il s'agit d'étudier les caractéristiques (âge, localisation, évolution technique flexibilité...) car elles ont des conséquences en termes de coûts et de qualité et peuvent placer la banque en position de force ou de faiblesse par rapport à ses concurrents. La Société Générale   dispose des agences et des outils de production au sein de sa direction technique située au siège (19, Avenue Léopold Sédar SENGHOR, Dakar) pour pouvoir produire une prestation de services pointus.
+2.1.1.2. Les ressources intangibles
+Sont aussi des actifs mais moins visibles que les ressources tangibles du fais de leur caractère.
+2.1.1.2.1 Les ressources technologiques
+La Société Générale est dotée d'un dispositif technologique et informatique de dernière génération composé essentiellement :
+- D'un système Réseaux et télécoms: chargé de la gestion et de l'optimisation des ressources réseaux et télécoms en terme de sécurité ;
+- D'un parc Micro & Hot Line : chargé de la gestion du parc micro, de l'assistance bureautique et hot line de premier niveau pour les utilisateurs ;
+- D'un système d'exploitation : chargé des traitements de masse informatique et la délivrance des divers états destinés aux utilisateurs et aux clients. Ce service est primordial dans la mesure où il traite l'information en gérant les fichiers. Il apporte aux logiciels les modifications imposées pour leur amélioration et élabore des applications nouvelles ;
+En matière de sécurité, un comité sur la Sécurité des Systèmes d'Information(SSI) se tient tous les trimestres présidé par la Direction Générale où tous les projets liés à la SSI sont passés en revue. Ainsi dans le cadre de la sécurité de l'infrastructure SI :
+- La migration du SI vers le siège Société Générale (SG) a renforcé la sécurité logique au sein du SI de la Société Générale.
+- Les accès aux serveurs sont maîtrisés, tracés tant au niveau du socle système qu'au niveau applicatif. Les comptes administrateurs locaux de PC ont été supprimés et les partages effectués sur la base de liste habilitée et les procédures mises en place. De même, le système d'habilitation Amplitude se fait par profil utilisateurs. Une revue des habilitations est effectuée périodiquement avec des mises à jour ponctuelles selon les mouvements du personnel. Un projet est en cours pour la gestion des habilitations hors Amplitude ;
+- Au niveau de l'infrastructure réseau, la sécurité est renforcée avec la redondance des équipements et l'installation de firewalls et d'IPS (intrusion prévention système) afin de filtrer les flux. Un cryptage des données sur Internet est mis en oeuvre pour protéger les flux monétiques TPE. Tous les logs des équipements sont centralisés sur un serveur et gérés par un outil Splunk. Un outil de supervision Orion est aussi utilisé pour surveiller la disponibilité des équipements. Le Point d'Accès internet sortant est validé conforme par IBFS/DSI (Direction SI du Groupe SG ). Le renforcement et le cryptage des mots de passe des comptes d'administration est en cours ;
+- Une politique antivirale est décrite et mise en place. 97.2% des équipements en ligne ont les signatures à jour ;
+- Un serveur NTP (Network Time Protocol) assure la synchronisation des horloges des PC, serveurs, téléphones IP et équipements réseaux ;
+Cependant des insuffisances ont été relevées par la DCPE lors de leur mission SI : 
+- Les collaborateurs Société Générale ne sont pas suffisamment sensibilisés aux risques IT, devenant le maillon faible de la chaine ;
+- Le site e-banking, hébergé au CRT (centre de ressources technologiques) Maroc, ne protège pas les clients Société Générale contre les malwares financiers ;
+- Les clients ne sont pas assez sensibilisés contre les risques de fraudes ;
+- Absence de limitation de plafond sur les virements de masse à travers l'e-banking.
+2.1.1.2.2 Les ressources mercatiques 
+Pour répondre aux attentes de ses clients, la banque a ouvert des agences dans certaines régions enclavées du Sénégal et aussi dans la sous-région. La banque dispose de moyens de transports comme des voitures personnelles pour pouvoir motiver les employés de façon a être plus productifs, la publicité est toujours accompagnée du service pour attirer les non consommateurs relatifs.
+ Le fait d'ouvrir des agences dans certaines régions est une force pour la Société Générale. Car le souci de chaque banque est de parvenir à satisfaire les besoins de sa clientèle en veillant à ce que les services ne lui manquent. 
+2.1.1.2.3 Les ressources organisationnelles
+Ces ressources aident l'entreprise à développer ses opérations quotidiennes.
+Elle est présente sur les différents réseaux sociaux comme LinkedIn, Facebook, Instagram et twitter. Par contre l'indisponibilité du site web qui est parfois en maintenance peut amener une invisibilité entre l'entreprise et les consommateurs. Cela est une faiblesse car ce site est comme un intermédiaire entre l'entreprise et ses clients et toute autre personne ayant envi de s'informer sur l'entreprise. Donc pour renforcer sa visibilité et attirer les non consommateurs relatifs, elle doit mettre en place une très bonne stratégie pour faire fonctionner le site web en permanence.
+2.1.1.2.4 Les ressources stratégiques 
+Il s'agit ici d'identifier les politiques qui permettent d'accroitre les profits de la banque à long terme.
+La politique commerciale : cette politique permet d'identifier les besoins exprimés par les consommateurs et d'essayer de mettre à leur disposions ce qui répond exactement à leurs attentes.
+La politique financière : cette politique permet à la banque de pouvoir utiliser ses ressources disponibles pour financer ses dépenses.
+La politique sociale : permet d'organiser autour d'un principe de solidarité des actions mises en œuvre progressivement par les responsables pour éviter la dégradation des liens sociaux. On trouve dans cette banque un climat social adorable où il y'a une solidarité et un échange entre les responsables et les employés ayant tous pour but de développer ensembles la banque. Cela constitue aussi une force pour l'entreprise.
+2.1.2 Diagnostic des compétences 
+Selon Hamel et Prahalad, la compétence permet de définir les avantages concurrentiels que l'entreprise détienne et d'établir une stratégie par rapport à ses compétences. Avec la compétence de ses salariés, leurs savoir-faire, leurs polyvalences ainsi que leurs motivations l'entreprise a pu aujourd'hui se démarquer de ses concurrents. 
+La meilleure stratégie pour que la banque puisse continuer à exploiter ces avantages et de garder son personnel est d'organiser des moments de divertissement et d'octroi des primes et des cadeaux pendant des évènements aux salaries.
+2.1.3 Diagnostic des Fonctions de l'entreprise 
+Henri FAYAL (1841-1925) dans son ouvrage intitulé administration industriel et général en 1916 distingue 6 fonctions dans une entreprise à savoir :
+2.1.3.1 La Fonction technique :
+Elle permet de sélectionner des équipements pour la transformation des produits, de connaitre les types d'outils à utiliser, d'apprécier les modes de combinaison et de fabrication technique possible. Avec la progression continuelle de la technologie, la Société Générale essaye de suivre le rythme et de proposer une meilleure prestation de service à ses clients.
+2.1.3.2  La fonction commerciale 
+La fonction commerciale comporte 3 utilités spécifiques : 
+Le marketing ou mercatique : il doit identifier les besoins des consommateurs ; imaginer et mettre en œuvre des produits ; fixer des prix, mener des actions commerciales, assurer le suivi et le contrôle des résultats
+La vente : elle consiste à mettre le produit à la disposition du consommateur, à provoquer les décisions d'achat et assurer le suivi du client en entretenant des relation de nature à les fidéliser.
+La communication : elle a pour rôle de faire connaitre les produits et leurs caractéristiques aux consommateurs, inciter à l'achat, assurer la notoriété et l'image de marque.
+La fonction comptable
+Elle doit faciliter l'enregistrement de toutes les opérations , permettre l'élaboration des bilans d'activités en fin d'exercice, contribuer aux calculs des différents couts (couts de production couts de revient et cout d'achat) et de fixer les prix de vente. En bref ; elle doit gérer la santé financière de l'entreprise
+2.1.3.3    La fonction financière
+Elle doit rechercher les capitaux nécessaires et fournir au moment voulu en vue de faciliter la fabrication et la distribution des produits c'est à dire suivre et contrôler la trésorerie de l'entreprise par une meilleure adéquation entre les ressources et les dépenses et la recherche de bonnes opportunités de placement des excédents.
+2.1.3.4    La   Fonction sécurité financière
+Elle doit veiller au bon état des produits (qualité satisfaisante, bonne conservation et meilleure présentation des produits), assurer les meilleures conditions de travail a tout le personnel, de maintenir leur protection individuelle.
+2.1.3.5   La fonction administrative
+Elle doit assurer la coordination de toutes les activités commerciales : fixer les objectifs, mettre en place les structures et les moyens d'actions, contrôler l'exécution des taches.
+2.1.4 Diagnostic de la stratégie marketing ou du marketing mix
+Le marketing mix, dans sa traditionnelle, est constitué de 4 variables. Il est la raison d'être du marketing qui permet de fournir des moyens pour développer la clientèle : une segmentation intelligente, un produit adapté qui plait et qui satisfait un prix juste, une communication publicitaire et promotionnelle suffisante pour faire connaitre et vanter les qualités du produit et de la marque et enfin une distribution étendue.
+2.1.4.1 politique de produit : 
+La Société Générale délivre un service de qualité qui répond aux attentes de ses clients 
+2.1.4.2 Politique de prix : 
+Le Yield Management est une pratique commerciale qui consiste à faire varier les prix en fonction du comportement de la demande des consommateurs. Mais avec la force concurrence sur le marché, les entreprises ont des difficultés de se comparer pour déterminer les prix.
+ C'est ainsi que la Société Générale pour se démarquer de ces dernières détermine les prix en fonction d'abord de la qualité du service et ensuite du comportement de la demande de ses clients.
+2.1.4.3 La politique de communication
+C'est le deuxième levier de la matérialisation de l'offre aux yeux du client. La politique de communication de la Société Générale vise à :
+Améliorer la connaissance des attentes de son clientèle,
+Rehausser la valeur perçue par le client,
+Assurer une satisfaction et une fidélité optimum.
+La collaboration de la Société Générale avec le Stade de Maitre Abdoulaye WADE montre qu'il y a une politique de communication entre les figures emblématiques du pays. Cette collaboration permet à la Société Générale de renforcer sa visibilité et de bien booster ses ventes au sein du pays ainsi que dans les sous régions.
+En appui de l'entretien effectué, nous constatons qu'ils ont des moyens de communications divers comme les réunions de coordination soit avec tous les services soit entre eux même et c'est le moyen de tout d'abord faire le point des activités mais aussi communiquer de leurs inquiétudes.
+2.1.4.4  La politique de distribution
+La politique de distribution est une étape très importante de l'étude du marché. Elle englobe les canaux de distribution ainsi que les différentes actions marketing comme la communication l'animation ou le service mais aussi les actions commerciales destinées aux distributeurs.
+Le choix de la politique de distribution nécessite :
+-d'identifier les typologies des différents réseaux de distribution,
+- d'analyser les fonctions supports : force de vente et service
+-Le circuit de distribution
+Pour parvenir au consommateur, le produit va parcourir un circuit, qui est ici un Long circuit. C'est à dire plusieurs intermédiaires vont acheminer consécutivement le produit au client.
+-Les canaux de distribution
+La Société Générale utilise des canaux de distribution comme :
+La grande distribution avec SG connect
+Intègre les fonction retrait, dépôt et paiement.
+2.2  L'Environnement externe de l'entreprise
+2.2.1 Analyse du microenvironnement de la Société Générale
+Par définition, le microenvironnement correspond à l'environnement proche de l'entreprise. On parle aussi d'environnement de proximité ou d'environnement direct. Ce dernier comprend un certain nombre d'acteurs qui interagissent avec l'entreprise. Ces parties prenantes extérieures exercent une influence positive ou négative sur elle. Le microenvironnement est plus proche de l'entreprise. Il représente tous les facteurs extérieurs à l'entreprise que celle-ci subi mais peut également influencer. Le microenvironnement comprend les différents partenaires de l'entreprise qui se rencontrent sur des marchés ainsi que les relations interentreprises (la concurrence).
+Une entreprise peut agir sur son microenvironnement, contrairement au macro-environnement. Elle dispose d'un certain pouvoir face aux acteurs qui le composent. D'ailleurs, elle a intérêt à tout mettre en œuvre pour ne rien subir. Lorsqu'elle décèle une opportunité, elle doit l'exploiter. Si, à l'inverse, elle identifie une menace, elle doit la contourner.
+En général, on considère que le microenvironnement d'une entreprise comprend les 5 acteurs suivants : les clients, les fournisseurs, les concurrents (directs et indirects), les intermédiaires commerciaux (distribution, commercialisation...) et les autres partenaires (assureurs, cabinet-comptable...).
+L'analyse du microenvironnement s'inscrit dans une démarche plus globale. En général, une entreprise s'intéresse à son environnement direct lorsqu'elle effectue un diagnostic stratégique externe. L'objectif de cette démarche est très simple : trouver un positionnement stratégique pour pénétrer le marché et disposer d'un avantage sur les concurrents.
+Le processus comprend de nombreuses étapes. L'entreprise doit notamment :
+Identifier tous les acteurs de son microenvironnement,
+Etudier les interactions qui existent entre l'ensemble des parties prenantes (nature, intensité...),
+Déceler les menaces immédiates et prévisibles, ainsi que les sources d'opportunités,
+Affiner sa stratégie, compte tenu de ses forces et faiblesses.
+La matrice SWOT permettra, à l'issue du travail, de synthétiser tous les résultats du diagnostic stratégique : forces et faiblesses de l'entreprise d'un côté ; menaces et opportunités du marché de l'autre. Les informations comprendront, non seulement celles provenant de l'étude du microenvironnement mais également celles issues du macro-environnement.
+La matrice SWOT permettra, à l'issue du travail, de synthétiser tous les résultats du diagnostic stratégique : forces et faiblesses de l'entreprise d'un côté ; menaces et opportunités du marché de l'autre. Les informations comprendront, non seulement celles provenant de l'étude du microenvironnement mais également celles issues du macro-environnement.
+
+   Les 5 forces de Michael Porter : l'outil simple d'analyse du microenvironnement
+Michael PORTER, chercheur et professeur américain de stratégie d'entreprise, a élaboré un outil qui permet de prendre les bonnes décisions stratégiques. Il s'appelle le modèle des cinq forces, en référence aux 5 variables à analyser pour étudier un environnement concurrentiel et formuler une stratégie :
+
+
+- L'intensité de la concurrence entre entreprises du secteur : Au sein d'un secteur, la concurrence entre firmes détermine l'attrait pour le secteur. Les entreprises luttent pour maintenir leur rapport de force. La concurrence évolue en fonction du développement du secteur, de la diversité ou de l'existence de barrières à l'entrée. En plus il s'agit d'une analyse du nombre de concurrents, des produits, de l'identité des marques, des forces et faiblesses, des stratégies, des parts de marché, ...
+La concurrence dans ce secteur est très rude. Numéro deux sur le marché sénégalais, la casamançaise a su se frayer un chemin et aujourd'hui est l'une des marques d'eau minérale favorite des sénégalais. Les autres entreprises sont assez bien implantées surtout KIRENE (numéro un sur le marché) et la naissance de nouvelles marques similaires rend la tendance très variante.
+- La menace de nouveaux entrants : Toute entreprise a intérêt à créer autour d'elle des barrières d'entrée pour ne pas voir arriver une multitude de concurrents. Il s'agit soit de nouvelles entreprises soit de firmes ayant l'intention de se diversifier. Ces barrières peuvent être légales (brevets, réglementations), industrielles (produits ou marque unique, ...). L'arrivée de nouveaux entrants dépend donc aussi de l'ampleur du marché (économie d'échelle), de la réputation d'une entreprise déjà installée, du coût d'entrée, de l'accès aux matières premières nécessaires, des standards techniques, des barrières culturelles, ....
+Ici, la casamançaise n'a pas une ancienneté significative sur le marché de l'eau minérale naturelle. Néanmoins, elle a su s'imposer, ce qui fait qu'elle n'est pas atteinte par l'arrivée de nouvelles entreprises similaires. Elle est le reflet de l'image d'une marque saine et œuvre dans ce sens depuis sa création. 
+- La menace de produits de substitution : Les produits de substitution peuvent être considérés comme une alternative par rapport à l'offre du marché. Ces produits sont dus à l'évolution de l'état de la technologie ou à l'innovation. Les entreprises voient leurs produits être remplacés par des produits différents. Ces produits ont souvent un meilleur rapport prix/qualité et viennent d'un secteur où sont réalisés des profits élevés. Ces produits de substitution peuvent être dangereux et l'entreprise doit être en mesure d'anticiper pour faire face à cette menace.
+L'eau étant un produit très demandé, cela peut ne pas représenter un problème dans les entreprises de production d'eau minérale car leur production relève du domaine agroalimentaire.
+- Le pouvoir de négociation des fournisseurs : Le pouvoir de négociation des fournisseurs est très important sur un marché. Des fournisseurs puissants peuvent imposer leurs conditions en termes de prix, de qualité et de quantité. A l'inverse s'il y a beaucoup de fournisseurs, leur influence est plus faible. Il faut analyser le nombre de commandes réalisées, le coût de changement de fournisseurs, la présence de matières premières de substitution, ....
+Les fournisseurs de la casamançaise que ce soit l'étiquetage, l'emballage, et autres ne nous ont pas été communiqués mais néanmoins si on se base sur les prix de la bouteille d'eau on peut en déduire que les dépenses sur ce plan sont abordables.
+- Le pouvoir de négociation des clients : Si le pouvoir de négociation des clients est élevé, ils influencent la rentabilité du marché en imposant leurs exigences en matière de prix, de service, de qualité, .... Bien choisir ses clients est primordial car il faut éviter de se retrouver en situation de dépendance vis-à-vis d'eux. Le niveau de concentration des clients leur accorde plus ou moins de pouvoir. Généralement leur pouvoir de négociation tend à être inversement proportionnel à celui des fournisseurs.
+Nous savons que la plupart des entreprises implantées au Sénégal sont des PME et parfois n'ont pas les moyens de décentraliser leur travail. Au niveau de la casamançaise, les clients ont la possibilité de se procurer du produit dans pas mal de zone de distribution mais plus au niveau de Dakar (ville économique). Dans certaines zones reculées, il n'est pas facile pour la clientèle de se procurer le produit et donc constitue un frein pour la casamançaise. 
+2.2.1.1 Les principaux partenaires de la Société Générale
+La Société Générale compte parmi ses partenaires : l'Etat du Sénégal, la Banque Mondiale, la SONATEL, avec certaines écoles comme Commerce : Gourmandine, Maison Eric Kayser - Dakar - Casino Sénégal, Librairie 4 Vents, Auchan, Pullman, Dakar Teranga, La Royaltine - Dakar Casino du Cap Vert , Sénégalaise de l'Automobile CDP, GAINDE 2000, Stade Maitre Abdoulaye WADE, YUP...La Société Générale, dans le cadre de son partenariat avec l'Agence française de développement, a développé une offre de crédit. Ce partenariat est destiné aux entreprises soucieuses de la protection de l'environnement. Il s'agit là d'une application concrète des engagements de la Société Générale en matière de responsabilité sociale et environnementale dans l'exercice de ses métiers grâce à la mise à disposition des entreprises d'une ligne de crédit. D'autres partenariats ont été également comptabilisés par la Société Générale :
+ Des conventions avec des partenaires bancaires et prescripteurs extérieurs :
+- Une avec la France au travers du réseau SG
+- Cinq avec l'Italie au travers des réseaux INTESA, BPVN, CASAMUTUI, UNICREDIT, CASSA DI RISPARMIO DI BIELA E VERCEL
+- Deux avec l'Espagne au travers des réseaux CAIXA et CECA (Groupement de Caisses d'Épargne)
+- Une avec les Etats-Unis au travers du réseau TRAVELEX
+- Une avec certains ordres (pharmaciens, experts comptables, médecins privés et Architectes) afin de développer nos relations avec les professions libérales. C'est ainsi que la Société Générale gère les comptes des Avocats (CARPA) après avoir largement gagné un appel d'offres.
+• Plusieurs conventions de prestation :
+- Service d'infrastructure informatique (Il s'agit d'une convention d'assistance technique conclue le 28 novembre 2011. La convention est signée entre la Société Générale
+Direction Centrale RESG/GTS et la SG)
+- Service Centre de Services Mutualisés - Système d'information et Monétique Madagascar,
+(BFV-SG) Burkina Faso(SGBF), Mauritanie(SGM), Guinée Equatoriale (SGB GE),
+Tchad (SGT), SG Côte d'Ivoire), SG Cameroun, (conventions signées entre par acte en date du 18 novembre2010. Elle a pour objet l'assistance par la Société Générale à : la gestion du système d'information et la gestion de la monétique)
+• Intermédiation bancaire (MANKO) : La convention a été signée entre la Société Générale et la Société d'Appui à l'Inclusion financière (SAIF) par acte en date du 9 mai 2012. Elle a pour objet l'intermédiation en opérations de banque à savoir la promotion des services suivants auprès des personnes susceptibles de constituer des prospects et auprès des clients :
+- Compte à vue ;
+- Livret d'épargne pour particuliers et micro-entrepreneurs non immatriculés ;
+- Compte sur dépôts rémunérés pour les micro-entrepreneurs immatriculés ;
+- Service monétique par téléphone portable ;
+- Crédit à la consommation particuliers et micro-entrepreneurs immatriculés ;
+-Crédit professionnel pour micro entrepreneurs et très petites entreprises ;
+- Service SMS banking.
+2.2.1.2 Le marché bancaire sénégalais :
+(Source : Rapport 2014 de la Commission Bancaire de l'UMOA) Avec ses 25 établissements de crédits, le secteur bancaire sénégalais se montre particulièrement dynamique depuis quelques années.
+Le volume d'affaires du secteur a progressé significativement avec un doublement des actifs entre 2007 et 2014 grâce à l'assouplissement des conditions monétaires dans la zone et la concurrence accrue avec l'entrée sur le marché des groupes bancaires africains.
+• Une place financière forte, dominée par les groupes bancaires à capitaux africains : Au 31 décembre 2015, 25 établissements de crédit exerçaient au Sénégal (23 banques et 2 établissements financiers) avec des actifs totalisant 5 463 Mds XOF, employant 4 858 personnes au service de 1,4 millions de compte. Le Sénégal se positionne ainsi comme le 2ème marché le plus important de l'UEMOA derrière la Côte d'Ivoire (29,4%), avec une part de marché de 19,3%.
+Le paysage bancaire sénégalais est dominé par les groupes bancaires étrangers. Fin 2014, ils détiennent 75% des actifs bancaires, concentrent les trois quart du réseau (4 agences sur 5), représentent 78% des comptes de la clientèle et emploient 79% de l'effectif total des salariés du secteur.
+Les groupes à capitaux africains sont fortement présents. Sur les 14 groupes bancaires présents dans le pays, 9 sont majoritairement composés de capitaux africains. Ils détiennent près de 50% des parts de marché contre 34% en 2006. Dans cet ensemble, les groupes marocains et nigérians, adoptent une politique d'expansion volontariste avec la mise en place de nouveaux produits destinés notamment aux populations exclues du système bancaire et la multiplication des agences et des guichets. Entre 2006 et 2014, la part de marché des groupes marocains est passée de 3 à 28%. Les groupes nigérians qui ne sont rentrés sur le marché que très récemment (2010 pour UBA et 2012 pour Diamond) détiennent déjà près de 6% de part de marché.
+Le taux de bancarisation, calculé sur la base du nombre de comptes et excluant les services bancaires via le mobile, a atteint 17,4% fin 2014, contre 10,6% en 2009. Néanmoins, on dénombre une agence pour près de 35 000 habitants, très éloigné de la moyenne en Afrique subsaharienne (1 pour 20 000) et de la norme d'une agence pour 5 000 habitants généralement admise au niveau international.
+
+• Un marché en pleine croissance
+Le secteur bancaire sénégalais affiche une forte croissance depuis 2007. Les actifs consolidés
+du secteur ont doublé en moins d'une décennie, passant de 2 256 Mds XOF à 5 463 Mds
+XOF(2015), soit un taux de croissance annuel moyen de 11%, conséquence de l'augmentation
+de la taille du marché induite par les stratégies des différentes banques. En outre, les mesures régionales prises par la BCEAO pour favoriser la bancarisation ont contribué fortement à l'essor du marché : baisse des taux directeurs, reprise des injections de liquidité (2007), réduction du coefficient de réserve obligataire (de 7 à 5%), mis en oeuvre d'une directive de l'UEMOA sur le paiement des salaires des fonctionnaires par le système bancaire. Cette progression a été enregistrée sur la quasi-totalité des postes d'activités des banques. Il faut néanmoins noter que les opérations portant sur les titres de placement semblent prendre de plus en plus d'importance. Elles représentaient 16% des emplois des banques en 2014, contre 14% en 2007, représentant 747 Mds XOF (contre 310 en 2007).
+• Une rentabilité limitée en raison d'un niveau de risque trop important
+La rentabilité des banques du pays est fortement limitée par rapport au reste de l'UEMOA.
+Malgré un produit net bancaire en forte progression entre 2007 et 2014 (+6% rythme annuel),
+le résultat net d'exploitation ne progresse que très faiblement, passant de 49 à 59 Mds XOF
+entre 2007 et en 2013 (+3,1% de croissance annuelle contre +9,5 en moyenne dans la zone) avant de reculer à 29 Mds XOF en 2014 (contre une croissance de +42% dans la zone à 335 Mds XOF). Le coefficient de rentabilité des fonds propres est passé de 14,6% en 2007 à 3,3% en 2014. L'importance du risque explique cette situation. Le coût du risque absorbe en moyenne 20% du produit net bancaire (PNB) sur les 5 derniers exercices. Il a atteint 32% du PNB en 2014. Le ratio de solvabilité (couverture des risques par les fonds propres) ressort à 17% en 2014, le second plus élevé de la région et largement supérieur à la norme de 8% et au niveau moyen régional de 12,6%. Toutes les banques en activité affichent un ratio de solvabilité supérieur à la norme.
+2.2.1.3 L'analyse concurrentielle
+Les concurrents directs de la Société Générale
+La concurrence du système financier décentralisé.
+La micro finance s'est développée au Sénégal vers la fin des années 80. Aujourd'hui, elle enregistre plus de 500 structures disséminées un peu partout à travers le territoire sénégalais.
+Ce secteur offre des services et produits financiers à des populations à faible niveau de revenu et au secteur informel. Donc le développement de la micro finance, menace le secteur bancaire surtout les banques traditionnelles dont la Société Générale du fait de la lourdeur de leurs prestations. Après le système financier décentralisé, d'autres menaces guettent le secteur.
+
+La concurrence des " pure players " :
+Les " pure players " sont des acteurs exerçant leurs activités commerciales uniquement sur internet ; ce sont des banques en ligne. La relation client s'effectue en effet, principalement par téléphone ou par mail. Ils développement des comptes mobiles, le transfert d'argent et proposent des solutions de paiements en ligne destinés aux entreprises et aux particuliers. Donc en offrant des solutions plus adaptées aux besoins d'une population non bancarisée, ils constituent une menace aux banques quant au développement de la bancarisation.
+2.2.2 Le macroenvironnement de la Société Générale
+Par définition, le macro-environnement correspond à l'environnement général. Ici, il s'agit donc du cadre global dans lequel évolue une entreprise. Il convient de retenir le sens large du terme. En effet, " macro " signifie grand. On l'oppose traditionnellement au microenvironnement, qui comprend, notamment et pour sa part, les relations inter-entreprises.
+Le macro-environnement fait référence aux caractéristiques générales d'une société dans un pays particulier (économie, marché...). Il comprend des contraintes : réglementaires, technologiques, écologiques, etc. Tous ces facteurs ont un impact sur les acteurs des marchés, et sur les entreprises présentes. Il peut être positif ou négatif.
+Une entreprise ne peut pas vraiment agir sur le macro-environnement qui l'entoure. Cela dit, elle peut l'analyser, s'y adapter et donc en tirer profit. C'est alors une formidable source d'opportunités. Les entreprises étudient leur macro-environnement dans le but de pénétrer un nouveau marché ou, tout simplement, pour survivre aux menaces potentielles.
+L'étude du macro-environnement d'une entreprise s'inscrit généralement dans une démarche - plus globale - d'analyse stratégique. On entend aussi souvent parler de diagnostic stratégique de l'environnement. L'objectif est assez simple : il consiste à élaborer un scénario probable pour l'entreprise afin de lui permettre de se positionner, c'est-à-dire d'adopter le positionnement stratégique qui va lui permettre de réussir.
+L'audit du macro-environnement de l'entreprise est généralement effectué à l'aide de la méthode PESTEL (voir ci-dessous). Grâce à elle, l'entreprise va comprendre comment fonctionne son marché et quels sont les facteurs qui vont influencer son existence.
+L'analyse SWOT lui permettra ensuite d'identifier les menaces et les opportunités de son environnement et de se situer dans son futur marché, en mettant en avant ses forces et ses faiblesses.
+Ces outils peuvent être utilisés dans le cadre d'une création d'entreprise (voire d'une reprise) afin d'appréhender les risques du projet. Ils peuvent également profiter aux entreprises existantes, qui souhaitent lancer une nouvelle activité ou un nouveau produit/service.
+Le macro-environnement comprend plusieurs dimensions. Il regroupe un certain nombre d'agents économiques qui peuvent exercer une influence sur l'entreprise : États, fournisseurs/clients, banques, investisseurs, personnel, syndicats, associations...
+Quoiqu'il en soit, une entreprise peut étudier son macro-environnement en analysant les 6 facteurs suivants (c'est la fameuse Méthode PESTEL) : P pour " politiques " : stabilité politique, fiscalité, protection sociale, pouvoirs des collectivités locales, taxes. E pour " économiques " : pouvoir d'achat, croissance, taux de chômage, évolution de l'épargne, inflation, etc. S pour " sociologiques " : comportement du consommateur, niveau d'éducation, mobilité, évolution démographique T pour " technologiques " : maturité, innovations, brevets, évolution des normes, recherche & développement E pour " écologiques " : énergies renouvelables, traitement des déchets et de la pollution L pour " légaux " : législation applicable dans le pays (travail, affaires, environnement, monopoles, sécurité...) 
+Chaque facteur occupe une place plus ou moins importante selon la nature de l'activité de l'entreprise et les spécificités du projet. En pratique, il est important de se concentrer sur les facteurs qui exercent un impact significatif. Pour cela, un système de notation peut être mis en place. Il doit tenir compte d'un degré d'incertitude. On appelle les plus importants des variables pivots. Ce sont eux qui permettront de travailler sur des scénarios, et donc notamment de déterminer la stratégie de l'entreprise.
+Nous vous expliquons ci-dessous en quoi consistent les 6 facteurs de l'analyse PESTEL
+Analyse du macroenvironnement de la Société Générale
+Le macroenvironnement est l'ensemble des facteurs extérieurs à l'entreprise qui s'impose à elle et constitue son cadre d'action: Politiques, économiques, socioculturel, technologiques, écologiques, légal.
+
+Environnement politique
+La Société Générale exerce ses activités au Sénégal depuis 1962.Le Sénégal compte parmi les pays les plus stable en Afrique du point de vue politique. De 1960 à nos jours, il n'y a jamais eu de prise de pouvoir par la force. Le système politique du pays a été renforcé par le référendum constitutionnel de 2016 qui a réduit le mandat présidentiel de 7 ans à 5 ans. Cette stabilité sur le plan politique contribue non seulement à attirer les investisseurs mais aussi, à rassurer ceux qui y investissent déjà. Cependant cette stabilité n'est pas à l'abri du terrorisme qui ronge déjà des pays frontaliers.
+
+Environnement économique
+Après des décennies de croissances très modestes, en particulier entre 2017 et 2013, lorsque le Sénégal a connu plusieurs chocs exogènes, le gouvernement du Sénégal a adopté, en 2014,un nouveau plan de développement, le Plan Sénégal Emergent, conçu pour aider le pays à sortir de ce cycle de faible croissance et de progrès insuffisants en matière de réduction de la pauvreté. Portée essentiellement par l'agriculture et le secteur industriel, la croissance économique s'est récemment accélérée, atteignant environ 6,5% en 2016 et 2107 faisant du Sénégal l'une des économies les plus performantes de l'Afrique subsaharienne, grâce à une meilleure compétitivité, des progrès dans les réformes structurelles engagées et une conjoncture internationale favorable. Les perspectives économiques sont positives avec les découvertes de nouveaux gisements de pétrole et de gaz.
+
+L'environnement socioculturel
+Sur le plan culturel :Il existe une grande diversité linguistique à travers les langues au Sénégal. La constitution de 2001 a reconnu aux français le statut de langue officielle et à six celui de langues nationales, le Wolof, langue parlée par le plus grand nombre de personnes (90% des sénégalais) même appartenant à d'autres ethnies( le sérère , le peul, le mandingue, le soninké, et le diola).
+La littérature sénégalaise a longtemps été connue dans le monde surtout à travers Léopold Sédar Senghor, à la fois poète et homme d'Etat, chantre de la négritude. Concernant les arts plastiques, diverses initiatives privées sont développées pour soutenir las artistes. Ces arts sont à l'honneur à travers le feu sculpteur Ousmane SOW de renommée internationale. Concernant le cinéma, le cinéma sénégalais est l'un des plus ancien d'Afrique (exemple Ousmane Sembene). Aujourd'hui beaucoup de salle des cinémas sont fermées à cause de la concurrence du marché florissant de la vidéo.
+Concernant le système éducatif, l'éducation au Sénégal est l'une des plus avancées sur le continent. Le Sénégal peut se targuer d'avoir un enseignement de qualité avec des équivalences de diplômes des universités étrangères les plus prestigieuses tant en France qu'aux Etats-Unis.
+
+Sur le plan social : Malgré le manque de données statistiques récentes, les projections récentes indiquent que les progrès dans la réduction de la pauvreté ont été plutôt modestes et que le Sénégal, qui affichait 46,7% de pauvreté en 2010, continue d'afficher des taux élevés de pauvreté. Sur la base de l'évolution du PIB par habitant, les simulations suggèrent que la pauvreté a diminué de 3 à 6% au cours de la période 2011-2015, principalement dans les zones rurales grâce aux meilleurs performances agricoles. En outre, les données sur l'évolution de l'emploi font apparaitre les efforts de diversification des emplois en milieu rural qui ont dû réduire la pauvreté.
+Dans le même temps, les données non monétaires suggèrent une stagnation des inégalités.
+L'évolution des indicateurs sociaux et des résultats est dans l'ensemble positive, bien lente et inégale
+
+L'environnement technologique :
+Le Sénégal occupe la 1ère place en Afrique sub-saharienne en termes de croissance de pénétration et de qualité de services  :
+- Réseau 100% numérisé à haut débit sur l'ensemble du territoire offrant une gamme de produits variés (ADSL, Frame Relay, RNIS, VSAT, Fibre-Optique etc.)
+- Bande passante internationale disponible de 4,2 Gb/s (2010)
+- Présence de 3 opérateurs télécoms majeurs sur le marché (SONATEL, TIGO, EXPRESSO)
+- Le Sénégal est au carrefour des réseaux intercontinentaux à haut débit :
+- Atlantis 2: 20 Gbit/s, reliant le Portugal, l'Espagne, le Sénégal, le Cap-Vert, le Brésil et l'Argentine
+- SAT-3/WASC/SAFE : 120 Gbit/s, reliant l'Europe, l'Afrique et l'Asie
+- Le Sénégal est également connecté à l'Amérique du Nord à travers le réseau de TELEGLOBE Canada
+- Connectivité sous régionale via : Câble de garde à fibres optiques (CGFO) de 2.5G bits/s Sénégal, Mauritanie, Mali et prolongé vers le Burkina et la Côte d'Ivoire
+- Fibre optique de 2,5 Gbit/s Kidira-Bamako prolongé vers le Burkina et la Côte d'Ivoire
+- Fibre optique terrestre de 622 Mbit/s Sénégal- Gambie secourue par faisceau numérique à 155 Mbits/s.
+- Fibre optique de 622 Mbits/ s Sénégal- Guinée Bissau secourue par faisceau numérique à 34 Mbits/ s prolongé vers la Guinée-Conakry
+L'Agence de Régulation des Télécommunications & des Postes (ARTP), garantit une concurrence saine et loyale au bénéfice des usagers des réseaux et services de télécommunications :
+- Un cadre législatif et règlementaire sécurisé
+- Loi d'orientation N° 2008-10 sur la société de l'information
+- Loi N° 2008-41sur la cryptologie
+- Loi N° 2008-08 sur les transactions électroniques
+- Loi N° 2008-11 sur la cybercriminalité
+- Loi N° 2008-12 sur la protection des données à caractère personnel
+
+L'environnement écologique
+Climat : Le Sénégal connait un cycle de sécheresses erratiques depuis quelques décennies.
+En 2002, le Sénégal était le 110e pays le plus émetteur en dioxyde de carbone avec environ 4.18 millions de tonnes en CO2 (gaz à effet de serre participant au réchauffement climatique).
+Pollutions : La prise en compte de la qualité de l'aire dans les secteurs des transports et de l'industrie est faible. La pollution de l'eau est problématique. Elle a des causes multiples, de l'assainissement insuffisant voire inexistant dans certaines zones
+Agriculture, pêche et exploitations des forêts : La surpêche n'est pas tant le fait de pollution locale, mais plutôt d'usines chinoises, coréennes, russes, qui produisent de la farine de poisson destinée à l'aquaculture et à l'élevage asiatique et européen. L'élevage est développé avec un cheptel important de volailles, ovincaprins et bovins etc. la déforestation est liée aux fluctuations climatiques et à la croissance démographique.
+Eau : L'organisation pour la mise en valeur du fleuve Sénégal (OMVS) a été crée en 1972 pour gérer le bassin versant du fleuve Sénégal. Le barrage de Diama est situé sur ce fleuve.
+Energie : Les énergies traditionnelles (bois, charbons de bois, déchets végétaux et animaux) représentent 49% de la consommation finale d'énergie dans le pays. Malgré ces contraintes, l'environnement écologique du Sénégal est favorable. En effet, en 2015, l'organisation Global Footprint Network(GFN) a indiqué que le Sénégal a une réserve en biocapacité qui s'équilibre avec l'empreinte écologique, à environ 1gha (hectare globale par habitant). Pour rappel, l'empreinte écologique est un indicateur et un mode d'évaluation environnementale qui comptabilise la pression exercée par les hommes envers les ressources naturelles fournis par la nature.
+C'est dans ce contexte que le gouvernement du Sénégal a mis en place un cadre juridique de protection de la nature (code forestier, décrets ...). Il a également ratifié plusieurs conventions comme la convention de Ramsar sur les zones humides, la convention de Washington sur les espèces menacées d'extinction, la convention sur la diversification et la convention sur la biodiversité. Aussi le Sénégal souhaite s'engager dans une démarche de tourisme durable.
+
+L'environnement législatif
+L'activité bancaire dans l'espace UEMOA (Union Economique Monétaire Ouest Africain) est régie par la loi n° 2008-26 du 28 juillet 2008. C'est la BCEAO à travers sa commission bancaire qui est chargé de veiller à la bonne application de cette règlementation par toutes les banques exerçant dans l'espace. De manière générale, le dispositif réglementaire africain est jugé inadapté. En effet, il se caractérise par une concentration élevée du secteur bancaire et des taux d'intermédiation extrêmement bas, et des systèmes d'enregistrement des garanties inefficaces qui constituent une entrave supplémentaire à l'accès des entreprises comme des particuliers au crédit. D'après la Banque mondiale, la raison principale pour laquelle les particuliers se voient refuser un prêt ou s'abstiennent d'en demander un est l'insuffisance des garanties qu'elles peuvent fournir, ce qui est dû à la fois à l'inefficacité du système d'enregistrement des biens meubles et effets mobiliers et à l'absence de documents prouvant le bien-fondé des revendications de propriété. C'est pourquoi les garanties exigées en Afrique sont très élevées au regard des autres régions. Selon le Rapport sur la compétitivité en Afrique 20092, le niveau des garanties exigées (137 % de la valeur du prêt) est le deuxième plus élevé au monde.
+Cependant, la Société Générale entant que filiale de la Société générale est à cheval sur la réglementation européenne et celle de l'UEMOA et a loi la plus contrainte est appliquée.
+
+
+
+
+
+
+2.3 Synthèse des diagnostics : matrice SWOT
+
+
+Tableau de synthèse du diagnostic interneFORCES
+- Un personnel jeune avec une moyenne d'âge de 25 ans dont 60% représente les femmes,
+- un personnel avec un niveau d'étude très élevée, passant de bac+2 au Master II,
+- un engagement particulier de la part des collaborateurs, Une prestation de services pointus,
+- Un dispositif technologique et informatique de dernière génération,
+- Grand nombres d'agences dans certaines régions enclavées du Sénégal et aussi dans la sous-région,
+- Engagement fort de la direction générale,
+- Bonne relation avec ses partenaires, Bonne politique de gestion de la qualité du service.FAIBLESSES
+- Moins d'accès sur site web amenant une invisibilité entre l'entreprise et les consommateurs,
+- Manque d'information des clients sur la plateforme,
+- Faible gestion des immobilisations
+- Manque de visibilité dans l'organisation
+- Moyen de communication limité
+
+
+
+Tableau de synthèse du diagnostic externeOPPORTUNITES
+
+- Stabilité politique,
+- Attraction et assurance des Investisseurs,
+- Une économie ouverte et en plein essor, Financement du PSE,
+- Opportunités d'investissement dans des niches à forte valeur ajoutée (pétrole, gaz, téléservices, etc.
+- Diversité linguistique, existence de ressources humaines qualifiées grâce au niveau élevé de l'éducation.
+- Des infrastructures de télécommunications de qualité, Monétique,
+- Gestion et traitement de données numériques, Intégration de solutions télécoms,
+- Abondance de l'eau, existence d'une riche biodiversité,
+- Pays attractif au tourisme,
+- Un environnement juridique hybride Filiale du Groupe société générale,
+- La SG est à cheval entre deux juridiction : la juridiction locale (espace UEMOA) et celle française.
+Un partenariat riche, une place financière en pleine croissance avec une baisse des taux directeurs,
+- Dispositif de sécurité solide face a la menace terroriste,
+- Politique RSE exemplaire 
+- Une fonction technologique renforcée et bien adaptée aux nouvelles technologies de l'information et de la communication 
+- Marché en croissance
+-Clients généralement satisfaits
+- Demande croissante 
+
+MENACES
+
+- Une économie très informelle exclue du secteur bancaire,
+- Taux de bancarisation très faible,
+- Inégalités sociales,
+- Insuffisance de l'épargne,
+- Niveau de revenu et du pouvoir d'achat faible,
+- La cybercriminalité (le Sénégal se positionne des pays les plus attaqués selon une étude de Kaspersky),
+- Changement climatique,
+- Un cadre réglementaire local jugé inadapté,
+- Une concurrence très forte,
+- Arrivée de nouvelles banques,
+- Concurrence directe et élargie,
+- Nouveaux entrants,
+- Impact négatif de la pandémie Covid 19 sur le pouvoir d'achat du consommateur,
+
+
+
+SECONDE PARTIE : Processus d'amélioration de la stratégie de communication digitale pour la Société Générale
+
+Chapitre 1 : Analyse de la stratégie de communication digitale de la Société générale
+2.1Vision et objectifs de la digitalisation
+La vision de la Société générale en matière de digitalisation est de devenir la banque panafricaine de référence, en offrant des services bancaires innovants et accessibles à ses clients grâce à l'utilisation de la technologie. L'objectif principal de la digitalisation pour Société générale est d'améliorer l'expérience client, d'accroître l'inclusion financière et d'optimiser l'efficacité opérationnelle.
+
+Expérience client améliorée : Société générale vise à offrir une expérience bancaire fluide, pratique et personnalisée à ses clients. Cela inclut des services bancaires en ligne conviviaux, des applications mobiles intuitives, des fonctionnalités de paiement électronique sécurisées, des services de banque à distance et des canaux de communication efficaces.
+Inclusion financière accrue : En tirant parti de la technologie numérique, Société générale cherche à étendre l'accès aux services financiers aux populations non bancarisées ou sous-bancarisées en Afrique. Cela implique de fournir des services bancaires de base via des téléphones mobiles, des agents de terrain et des solutions de paiement mobile pour faciliter les transactions financières.
+	Transformation numérique interne : Société générale vise à moderniser et à automatiser ses processus internes grâce à la digitalisation. Cela inclut l'utilisation de solutions de gestion électronique des documents, l'automatisation des processus bancaires, l'intégration de systèmes de données et l'adoption de technologies émergentes telles que l'intelligence artificielle et la blockchain pour améliorer l'efficacité opérationnelle.
+	Développement de produits et services innovants : Société générale se concentre sur la création de produits et services bancaires innovants pour répondre aux besoins changeants de ses clients. Cela peut inclure des solutions de prêt en ligne, des services de gestion de patrimoine numériques, des plateformes de commerce électronique et d'autres offres qui exploitent les avantages de la digitalisation.
+Partenariats stratégiques : Société générale cherche à établir des partenariats stratégiques avec des entreprises technologiques et des startups pour accélérer sa transformation digitale. Ces collaborations peuvent inclure le développement conjoint de solutions, le partage de connaissances et l'accès à des expertises complémentaires.
+En poursuivant ces objectifs, Société générale aspire à renforcer sa position en tant que leader dans le secteur bancaire africain et à contribuer à l'avancement de la transformation numérique sur le continent
+
+2.2 Initiatives et projets de digitalisation
+Société générale a mis en place plusieurs initiatives et projets de digitalisation pour améliorer ses services bancaires et répondre aux besoins de sa clientèle :
+
+Société générale Mobile App : Société générale a lancé une application mobile conviviale qui permet aux clients d'accéder à leurs comptes bancaires, d'effectuer des transactions, de payer des factures, de transférer de l'argent et de bénéficier d'autres services bancaires à partir de leur smartphone. L'application offre également des fonctionnalités telles que la géolocalisation des guichets automatiques et des agences bancaires, ainsi que des notifications en temps réel pour les transactions.
+	Société générale Online Banking : Société générale propose une plateforme de digitalisation qui permet aux clients d'accéder à leurs comptes bancaires via Internet. Les clients peuvent effectuer des opérations bancaires telles que des virements, des paiements de factures, des demandes de chéquiers et des demandes de prêt en ligne, de manière sécurisée et pratique.
+Société générale Mobile Banking : Société générale offre des services bancaires mobiles via des codes USSD (Unstructured Supplementary Service Data) pour permettre aux clients de réaliser des transactions bancaires à partir de leur téléphone portable, même sans connexion Internet. Les clients peuvent vérifier leur solde, effectuer des transferts d'argent et accéder à d'autres services bancaires en composant simplement des codes courts sur leur téléphone.
+SoGECASHNET : Société générale propose un service de paiement électronique, qui permet aux clients d'effectuer des paiements sans numéraire en utilisant des codes QR ou des cartes prépayées. Ce service est disponible sur les plateformes en ligne,  mobiles et dans les points de vente physiques, offrant ainsi une solution de paiement pratique et sécurisée.
+YUP: Société générale a mis en place un service de transfert d'argent international appelé Rapidtransfer, qui permet aux clients d'envoyer et de recevoir de l'argent de manière rapide et sécurisée vers de nombreux pays à travers le monde. Ce service utilise la technologie numérique pour faciliter les transactions transfrontalières.
+SG connect: Société générale a développé un réseau d'agents bancaires, qui permet aux clients d'effectuer des transactions bancaires de base, telles que les dépôts, les retraits et les transferts d'argent, auprès d'agents autorisés.  Cela étend la portée des services bancaires aux populations vivant dans des régions éloignées ou ne disposant pas d'un accès facile aux agences bancaires traditionnelles.
+Ces initiatives et projets de digitalisation démontrent l'engagement Société générale à adopter les technologies numériques pour offrir des services bancaires plus accessibles, pratiques et innovants à ses clients à travers l'Afrique.
+
+2.3 Les avantages et inconvénients de la digitalisation pour la Société générale 
+2.3.1 Avantages
+Les principaux avantages des services digitaux pour les banques sont l'image de marque et une meilleure réactivité au marché. Les banques offrant de tels services seront considérées comme des leaders dans la mise en œuvre de la technologie, d'autant plus que ces services offrent aux banques la possibilité de maximiser leurs profits. La banque digitale présente plusieurs avantages pour Société générale, qui peuvent être résumés comme suit :
+Amélioration de l'expérience client : La digitalisation permet à Société générale d'offrir une expérience client améliorée en fournissant des services bancaires plus rapides, plus pratiques et plus accessibles. Les clients peuvent effectuer des transactions à tout moment et en tout lieu, accéder à leurs comptes en ligne, recevoir des notifications en temps réel et bénéficier de fonctionnalités personnalisées. Cela renforce la satisfaction des clients et favorise la fidélité à la banque.
+Accès à un plus large éventail de clients : Grâce à la digitalisation, Société générale peut atteindre un public plus large, y compris les populations non bancarisées ou sous- bancarisées. Les services bancaires mobiles et les solutions de paiement électronique offrent une accessibilité accrue aux personnes qui n'ont pas accès aux services bancaires traditionnels. Cela favorise l'inclusion financière et permet à Société générale d'étendre sa clientèle.
+Optimisation des opérations bancaires : La digitalisation permet à Société générale d'optimiser ses processus internes et d'améliorer son efficacité opérationnelle. L'automatisation des tâches manuelles, l'utilisation de solutions de gestion électronique des documents, l'intégration des systèmes et l'adoption de technologies émergentes réduisent les délais de traitement, minimisent les erreurs et augmentent la productivité du personnel. Cela se traduit par des coûts réduits et une meilleure utilisation des ressources.
+	Développement de produits et services innovants : La digitalisation offre à Société générale de nouvelles possibilités de développer des produits et services bancaires innovants. Cela comprend des solutions de paiement mobile, des services de gestion de patrimoine numériques, des plateformes de commerce électronique et d'autres offres qui répondent aux besoins changeants des clients. Ces produits et services innovants renforcent la compétitivité de la Société générale sur le marché.
+Renforcement de la sécurité des transactions : La digitalisation permet à Société générale de renforcer la sécurité des transactions financières. Des mesures de sécurité avancées, telles que l'authentification à deux facteurs, le cryptage des données et la surveillance des activités suspectes, sont mises en place pour protéger les informations sensibles des clients et prévenir les fraudes. Cela renforce la confiance des clients dans les services bancaires en ligne.
+Collaboration avec des partenaires stratégiques : La digitalisation permet à Société générale de nouer des partenariats stratégiques avec des entreprises technologiques et des startups. Ces collaborations offrent des opportunités de partager des connaissances, d'accéder à des expertises complémentaires et de développer conjointement des solutions innovantes. Cela favorise l'innovation et la croissance de l'écosystème bancaire numérique.
+En somme, la digitalisation apporte des avantages significatifs à Société générale, en améliorant l'expérience client, en élargissant la portée des services bancaires, en optimisant les opérations, en favorisant l'innovation et en renforçant la sécurité des transactions. Ces avantages contribuent à renforcer la position de la Société générale en tant que leader du secteur bancaire en Afrique et à assurer sa croissance à long terme.
+
+2.3.2 Inconvénients
+Bien que la digitalisation apporte de nombreux avantages, il existe également certains inconvénients potentiels pour Société générale lors de sa transformation numérique. Voici quelques- uns de ces inconvénients :
+
+Exclusion numérique : Alors que la digitalisation vise à améliorer l'inclusion financière, elle peut également exclure certaines personnes qui n'ont pas accès à la technologie ou qui ne sont pas à l'aise avec son utilisation. Cela peut entraîner une exclusion numérique des clients potentiels, en particulier parmi les populations rurales ou moins familiarisées avec les appareils numériques.
+	Problèmes de sécurité : La digitalisation expose les banques et leurs clients à des risques de sécurité accrus tels que le piratage informatique, les fraudes en ligne et le vol d'identité. Société générale doit mettre en place des mesures de sécurité solides pour protéger les informations sensibles des clients et garantir la confidentialité des transactions.
+Dépendance à la technologie : La dépendance à la technologie peut être un inconvénient potentiel si les systèmes informatiques rencontrent des pannes ou des interruptions. Une panne de réseau, une défaillance du système ou une cyberattaque peuvent entraîner une interruption des services bancaires numériques et nuire à l'expérience client.
+Besoin de compétences technologiques : La mise en œuvre réussie de la digitalisation nécessite des compétences technologiques avancées. Société générale doit former et recruter du personnel qualifié pour gérer et maintenir les systèmes technologiques, ainsi que pour assister les clients dans l'utilisation des services numériques. Cela peut représenter un défi en termes de coûts et de ressources humaines.
+Résistance au changement : La digitalisation implique un changement de culture et de mentalité au sein de l'organisation bancaire. Certains employés ou clients peuvent être réticents à adopter de nouvelles technologies, ce qui peut entraîner une résistance au changement et des difficultés dans la transition vers un modèle de banque numérique.
+Complexité technique : La mise en place de systèmes numériques complexes peut être un processus coûteux et complexe. Société générale devra faire face à des défis tels que l'intégration de différents systèmes, la gestion des données massives, la conformité réglementaire et la conformité aux normes de sécurité, ce qui peut entraîner des complications et des retards dans la mise en œuvre.
+
+Il est important pour Société générale de prendre en compte ces inconvénients potentiels lors de la digitalisation de ses services, afin de mettre en place des stratégies d'atténuation appropriées et de garantir une transition en douceur vers un environnement bancaire numérique.
+
+2.4 Opportunités et transformations induites par la digitalisation
+La digitalisation a ouvert de nombreuses opportunités et induit des transformations majeures pour Société générale:
+La digitalisation a permis à Société générale d'atteindre de nouveaux segments de clients, en particulier ceux qui étaient auparavant exclus du système financier traditionnel. Les services bancaires mobiles et les applications en ligne ont rendu les services financiers plus accessibles et ont attiré de nouveaux clients, notamment les jeunes, les populations non bancarisées et les entrepreneurs émergents.
+La digitalisation a permis à Société générale d'améliorer l'expérience client en offrant des services bancaires plus rapides, plus pratiques et plus personnalisés. Les clients bénéficient de fonctionnalités telles que les paiements instantanés, les notifications en temps réel, l'accès aux comptes 24h/24 et la gestion facile des finances via des applications conviviales. Cela renforce la satisfaction et la fidélité des clients envers la banque.
+	La digitalisation a transformé les processus internes de la Société générale, entraînant une amélioration de l'efficacité opérationnelle. Les opérations automatisées, les flux de travail numériques et les systèmes intégrés ont permis de réduire les délais de traitement, les erreurs et les coûts liés aux processus manuels. Cela libère du temps et des ressources pour se concentrer sur des activités à plus forte valeur ajoutée.
+	La digitalisation a stimulé l'innovation de produits et services chez Société générale. La banque a développé de nouvelles solutions numériques telles que les services de paiement mobile, les portefeuilles électroniques, les plateformes de crowdfunding et les services de conseil en ligne. Ces innovations répondent aux besoins changeants des clients et créent de nouvelles opportunités de revenus pour la banque.
+La digitalisation a ouvert la voie à des partenariats stratégiques entre Société générale et des entreprises technologiques. Ces partenariats permettent à la banque de tirer parti des compétences et des capacités technologiques des partenaires pour améliorer ses offres numériques. Cela inclut la mise en place de passerelles de paiement, l'utilisation de l'intelligence artificielle pour l'analyse des données client et la collaboration avec des start-ups pour l'innovation.
+	La digitalisation a également incité Société générale à renforcer ses mesures de sécurité et de conformité. La banque a mis en place des protocoles avancés de protection des données, de détection des fraudes et de prévention des cyberattaques. Cela renforce la confiance des clients dans l'utilisation des services numériques et garantit la sécurité de leurs informations financières sensibles.
+      En exploitant ces opportunités et en s'adaptant aux transformations induites par la digitalisation, Société générale est en mesure de se positionner comme un leader dans le domaine des services bancaires numériques en Afrique et de répondre aux attentes croissantes des clients en matière d'innovation.
+
+2.5 Impacts de la digitalisation chez Société générale
+
+2.5.1 Impact de la digitalisation sur ses opérations
+La digitalisation a eu un impact significatif sur les opérations de la Société générale positifs et à la fois négatifs :
+La digitalisation a permis à la Société générale d'élargir son accessibilité et de toucher un plus grand nombre de clients. Grâce à la mise en place de services bancaires en ligne, les clients peuvent effectuer des opérations bancaires à tout moment et depuis n'importe où, en utilisant des applications mobiles, des sites web ou des services bancaires par SMS. Cela a considérablement amélioré la commodité pour les clients et a contribué à accroître la portée de la Société générale sur le marché.
+La digitalisation a permis à Société générale de diversifier ses canaux de distribution. Outre les agences traditionnelles, Société générale propose désormais des services bancaires via des terminaux de paiement électronique, des points de vente partenaires, des distributeurs automatiques de billets (DAB), des agents bancaires et des canaux en ligne. Cela permet aux clients de choisir le canal qui leur convient le mieux pour effectuer leurs opérations bancaires, ce qui contribue à une expérience utilisateur améliorée.
+La digitalisation a permis à Société générale d'automatiser de nombreux processus opérationnels, ce qui a entraîné des gains d'efficacité et une réduction des coûts. Par exemple, les opérations courantes telles que l'ouverture de comptes, les virements et les paiements de factures peuvent être effectuées en ligne sans intervention humaine. Cela permet à Société générale de traiter un plus grand volume de transactions de manière plus rapide et plus précise, tout en réduisant la nécessité de ressources humaines supplémentaires.
+La digitalisation a également permis à Société générale de développer de nouveaux produits et services innovants pour répondre aux besoins changeants des clients. Par exemple, Société générale a introduit des solutions de paiement mobile, des portefeuilles électroniques et des plateformes de commerce électronique. Ces initiatives ont permis à Société générale de se positionner comme un acteur clé dans le domaine des services financiers numériques en Afrique et de rester compétitif sur le marché.
+La digitalisation a également amené Société générale à renforcer ses mesures de sécurité et de conformité. Étant donné que les transactions en ligne peuvent être vulnérables aux fraudes et aux cyberattaques, Société générale a investi dans des systèmes de sécurité avancés pour protéger les données sensibles des clients et prévenir les violations de sécurité. De plus, Société générale a dû se conformer aux réglementations en matière de protection des données et de lutte contre le blanchiment d'argent, en mettant en place des mécanismes de vérification d'identité et de surveillance des transactions.
+La digitalisation a ouvert la voie à l'émergence de banques en ligne et de fintechs qui offrent des services financiers plus agiles et innovants. Cela a intensifié la concurrence pour Société générale, car les clients ont désormais plus d'options et peuvent opter pour des solutions numériques plus rapides et plus pratiques offertes par d'autres acteurs du marché.
+À mesure que de plus en plus de clients se tournent vers les services bancaires en ligne, l'utilisation des succursales physiques de Société générale peut diminuer. Cela peut entraîner une baisse de la rentabilité des succursales, car les coûts d'exploitation continuent d'exister tandis que les revenus générés diminuent.
+La digitalisation expose les banques à des risques de cybersécurité plus importants. Les cyberattaques, telles que les tentatives de phishing, les vols de données et les fraudes en ligne, peuvent affecter la réputation de Société générale et entraîner des pertes financières importantes. La nécessité de mettre en place des mesures de sécurité solides pour protéger les données sensibles des clients peut représenter un défi majeur.
+La digitalisation nécessite des investissements importants dans les infrastructures technologiques, les systèmes de sécurité, les logiciels et les talents spécialisés. Cela peut représenter une pression financière supplémentaire pour Société générale, en particulier si l'entreprise doit rattraper son retard technologique par rapport à ses concurrents.
+Bien que la digitalisation puisse améliorer l'accessibilité aux services bancaires pour de nombreux clients, il existe encore des populations qui n'ont pas accès à Internet ou qui ne sont pas familiarisées avec les technologies numériques. Cela peut entraîner une exclusion financière pour ces segments de la population, qui dépendent toujours des services bancaires traditionnels.
+
+2.5.2 Impact de la digitalisation sur sa relation avec les clients
+
+La digitalisation a eu un impact significatif sur la relation de la Société générale avec ses clients tant positifs que négatifs :
+La digitalisation a permis à Société générale d'améliorer l'expérience client en offrant une plus grande commodité et une accessibilité accrue aux services bancaires. Les clients peuvent effectuer des opérations bancaires à tout moment et depuis n'importe où, en utilisant des applications mobiles, des sites web ou des services bancaires par SMS. Cela élimine la nécessité de se rendre physiquement dans une agence bancaire et permet aux clients d'effectuer rapidement et facilement des transactions courantes, tels que les virements, les paiements de factures et la consultation des soldes.
+La digitalisation a également permis à Société générale de personnaliser ses services en fonction des besoins spécifiques de chaque client. Grâce à l'utilisation de données et d'algorithmes, Société générale peut analyser les habitudes et les préférences des clients pour leur proposer des offres et des recommandations adaptées. Par exemple, en se basant sur les transactions passées, Société générale peut proposer des produits d'épargne ou de crédit personnalisés, ce qui améliore la pertinence des offres et renforce la relation avec les clients.
+: La digitalisation a facilité la communication entre Société générale et ses clients. Les clients peuvent poser des questions, obtenir des informations et bénéficier d'un support client en ligne via des chatbots, des messageries instantanées et des centres d'appels virtuels. Cela permet à Société générale de répondre rapidement aux besoins des clients et de résoudre les problèmes de manière efficace, améliorant ainsi la satisfaction globale des clients.
+La digitalisation a également permis à Société générale de proposer des services financiers novateurs et adaptés aux besoins de la population africaine. Par exemple, Société générale a développé des solutions de paiement mobile, des services de transfert d'argent transfrontaliers et des offres de microfinance. Ces services permettent aux clients d'accéder à des solutions financières pratiques, abordables et adaptées à leurs réalités locales.
+La digitalisation a également joué un rôle essentiel dans le renforcement de la confiance entre Société générale et ses clients. En mettant en place des mesures de sécurité avancées pour protéger les données des clients et en respectant les réglementations en matière de protection des données, Société générale démontre son engagement envers la confidentialité et la sécurité des informations personnelles de ses clients. Cela contribue à instaurer une relation de confiance avec les clients, ce qui est essentiel pour fidéliser la clientèle.
+Avec la digitalisation, les interactions personnelles entre les clients et les employés de la Société générale ont diminué. Les clients peuvent effectuer la plupart de leurs opérations bancaires en ligne, ce qui réduit la nécessité de se rendre physiquement dans une agence bancaire. Cela peut entraîner une perte de contact humain et un sentiment d'éloignement, surtout pour les clients qui préfèrent une interaction en face à face et qui pourraient avoir besoin d'assistance ou de conseils personnalisés.
+Bien que la digitalisation ait simplifié de nombreuses opérations bancaires courantes, elle peut rendre plus difficile la résolution des problèmes complexes. Les clients peuvent être confrontés à des difficultés techniques lors de l'utilisation des services bancaires en ligne, et il peut être plus difficile d'obtenir une assistance personnalisée pour résoudre ces problèmes. Cela peut entraîner des frustrations pour les clients et une diminution de la satisfaction de la clientèle.
+Alors que la digitalisation offre des avantages en termes de commodité, elle expose également les clients à des risques de sécurité accrus. Les transactions en ligne peuvent être vulnérables aux attaques de pirates informatiques, aux fraudes et au vol d'identité. Même avec des mesures de sécurité en place, certains clients peuvent craindre pour la confidentialité de leurs données personnelles et financières, ce qui peut affecter leur confiance envers Société générale.
+La digitalisation peut entraîner une exclusion financière pour les populations qui n'ont pas accès à internet ou qui ne sont pas à l'aise avec les technologies numériques. En se concentrant de plus en plus sur les services en ligne, Société générale risque de ne pas pouvoir servir ces segments de population, qui pourraient être exclus du système financier.
+La digitalisation peut également entraîner une perte de personnalisation dans la relation entre Société générale et ses clients. Les services en ligne sont souvent standardisés et peuvent manquer de l'aspect personnalisé et de l'attention aux détails que les clients peuvent apprécier lorsqu'ils interagissent avec un employé de banque. Cela peut conduire à une relation moins engageante avec les clients et à une diminution de leur fidélité.
+
+
+Chapitre 2 : Les pistes d'amélioration de la stratégie de communication digitale de la Société générale
+
+2.1Vision et objectifs de la digitalisation
+Depuis quelques années maintenant, tout acteur économique se préoccupe de la transformation digitale. Nous sommes d'ailleurs nombreux à avoir déjà été confrontés d'une certaine manière,        de près ou de loin, à ce changement. L'idée qu'une transformation digitale se limite à l'utilisation d'outils numériques semble répandue alors qu'en réalité elle englobe avec elle tout un nouveau mode de fonctionnement qui impacte les individus, les organisations, leurs habitudes ainsi que les pratiques managériales et les cultures d'entreprises établies depuis longtemps. Ce sont tant des questions sociologiques que technologiques que la digitalisation soulève. Et, tous les métiers sont à fortiori impactés. C'est pourquoi certains sont même prêts à parler de " nouvelle révolution industrielle ". La digitalisation désigne le processus par lequel les institutions financières intègrent les technologies numériques dans leurs opérations, leurs produits et leurs services. Cela comprend l'utilisation de plateformes en ligne, d'applications mobiles, de l'analyse des données, de l'intelligence artificielle et d'autres technologies pour améliorer l'efficacité, la rapidité et la personnalisation des services bancaires. La digitalisation 
+vise à simplifier les processus, à rendre les services plus accessibles et à offrir une expérience client optimisée. Elle contribue également à la réduction des coûts opérationnels et à l'innovation dans le secteur bancaire. La multiplication des outils numériques a induit de nouvelles habitudes de consommation chez les clients. Ces derniers ayant pris conscience des facilités apportées par le digital ne pouvaient tout simplement plus s'en passer. Devant ce fait, les banques ont dû se soumettre à une digitalisation de masse. Elle concerne aussi bien les processus que l'organisation même des structures bancaires, et a un but précis. Il s'agit de répondre aux attentes de la clientèle et surtout à la demande des professionnels. Dans un souci d'évolution logique, ces derniers veulent aussi numériser leur gestion financière. Les produits et services de la banque traditionnelle ne répondaient naturellement plus à cette exigence. La digitalisation des banques prend alors tout son sens, car elle a permis la réadaptation des offres bancaires aux réalités du marché. En effet, la révolution numérique a transformé le secteur bancaire. Ces vingt dernières années, les banques traditionnelles ont dû repenser leur business model aux changements portés par l'internationalisation des marchés, l'avènement des canaux de distribution digital et le changement du comportement des consommateurs afin de survivre et de rester compétitives ; par la mise en place de nouveaux outils, processus et stratégies, afin de répondre à la concurrence des nouveaux entrants dans le système financier. Cette transformation digitale a eu un impact considérable sur les métiers bancaires, comme sur la relation client-banque. A titre d'exemple, d'une part la transformation digitale a fait gagner du temps et faciliter les opérations usuelles et répétitives pour les banquiers. D'autre part, elle a permis aux clients des banques de s'informer rapidement et de comparer les prix et la qualité des services financiers proposés, ce qui leur rendent d'être de plus en plus exigeants, leur fréquentation vers les agences a diminué, du fait que l'accès aux banques devient totalement mobile. Toutefois, ce constat peut être l'origine d'une discrimination socio-économique de fait de certaines catégories de la population à cause de certains coûts financiers (accès Internet, outils 9 informatiques) ou des coûts d'apprentissage et d'analphabétisme, ce qui peut produire des facteurs de résistance des clients.
+
+2.2 Définition de la digitalisation bancaire
+Il s'agit du processus de conversion d'un objet physique en un format numérique''. Ce processus n'affecte pas le document original, ce qui est une définition courante du terme. La digitalisation existe depuis des siècles. Gottfried Leibniz a introduit pour la première fois le concept de digitalisation en 1679.
+
+Une digitalisation est une banque qui propose ses services en ligne, sans agence physique. Elle permet à ses clients de gérer leur compte bancaire en ligne, de faire des virements et des paiements, de consulter leurs soldes et de suivre leurs opérations bancaires.
+La digitalisation fait référence au processus par lequel les banques intègrent les technologies numériques et les solutions informatiques avancées dans leurs opérations, leurs produits et leurs services. Elle vise à transformer les modèles traditionnels de prestation de services financiers en solutions numériques plus efficaces, accessibles et personnalisées. La digitalisation implique l'utilisation de technologies telles que l'intelligence artificielle, l'automatisation des processus, l'informatique en nuage, le block Chain, les applications mobiles et les interfaces conviviales pour les utilisateurs. Ces technologies permettent aux banques de rationaliser leurs opérations, de proposer des services   en ligne et mobiles, de faciliter les paiements électroniques, d'améliorer la gestion des risques,                   d'optimiser l'expérience client et de fournir des services financiers plus personnalisés et adaptés  aux besoins individuels. L'objectif principal de la digitalisation est d'améliorer              l'efficacité opérationnelle, de réduire les coûts, d'accroître la portée géographique des services bancaires, d'améliorer la satisfaction client et de stimuler l'innovation dans le secteur financier. Elle permet également de répondre aux attentes changeantes des consommateurs qui préfèrent               des services bancaires rapides, pratiques et accessibles à partir de divers appareils numériques.
+La digitalisation se traduit par une mobilité accrue, des opérations plus rapides, un accès à distance facilitée mais aussi davantage d'interactions sociales autour des sujets liés à la banque. Une tendance qui ne semble pas sur le point de s'estomper.
+Le Digital Banking (ou banque digitale, en français) correspond à l'évolution de la relation d'une banque avec ses clients sous l'effet du digital. Il recouvre quatre aspects principaux : la mobilité, l'instantanéité, la distanciation et l'interactivité. Avec le Digital Banking, les services bancaires deviennent accessibles sans aucune contrainte liée au temps ou à l'espace. Vous pouvez utiliser vos services bancaires à n'importe quelle heure du jour (ou de la nuit, selon les           cas). Cet accès peut se faire depuis une multitude de terminaux : desktop (depuis le navigateur internet de votre ordinateur), smartphone, tablette...
+
+La rapidité d'exécution des opérations est une autre caractéristique du Digital Banking. Qu'il s'agisse d'un ordre de prélèvement ou encore d'un ordre de bourse, la transmission d'informations est de plus en plus rapide. Pour s'informer aussi, les délais sont raccourcis. Avec             le Digital Banking, il est possible d'obtenir des réponses immédiates et multiples. L'information                  est segmentée selon le niveau de précision de votre question. Une foire aux questions en ligne est ainsi souvent complétée par la possibilité de contacter un conseiller par le moyen de votre choix (chat, email, téléphone...). Vous bénéficiez d'un accès instantané à tous vos documents grâce à la dématérialisation de tous les relevés et à l'archivage numérique. Avec le Digital Banking, il est possible de réaliser les opérations bancaires courantes à distance (virement, encaissement de chèques...). Au-delà, c'est l'intégralité du parcours client qui est digitalisée, de la première expression de son besoin à la réalisation d'une opération ou la souscription d'un  nouveau service ou contrat (crédit en ligne, épargne...). La transmission numérique de tous les                                 documents client et la signature électronique en tout lieu de souscription font partie intégrante de ce processus. Le digital permet une plus grande personnalisation de l'offre que ce soit au niveau de la composition des produits et services bancaires, de la tarification ou du choix du canal relationnel.
+
+Enfin, le Digital Banking ne se limite pas à la présence numérique de la banque elle-même. Cette tendance inclut également les réseaux sociaux, qui jouent un rôle de plus en plus prégnant  dans le partage d'informations sur l'offre entre clients. Le Digital Banking est donc une tendance globale. Les banques en ligne ont été pionnières dans ce domaine et continuent d'innover pour développer les services de banque à distance.
+
+2.3 Tendances actuelles de la digitalisation dans le secteur bancaire
+L'évolution des attentes des clients, conjuguée à la pression exercée pour réduire les coûts et améliorer l'efficacité, incite les banques à accélérer leur transformation digitale. Bien que  la pandémie ait mis en évidence la nécessité d'une transformation, les clients des banques délaissent depuis un certain temps déjà les services bancaires traditionnels en agence au profit d'alternatives en ligne et mobiles. Aujourd'hui, le secteur bancaire place la transformation du back-office en tête de ses priorités, en particulier les institutions conventionnelles limitées par une myriade de technologies et de processus de gestion traditionnels. Les banques et leurs dirigeants sont parfaitement conscients de la nécessité de se transformer et d'adopter pleinement le digital. Le secteur consacre des milliards chaque année à ce défi, mais la mise en adéquation de ces efforts de transformation digitale avec les objectifs de l'entreprise reste difficile. En l'espace d'une dizaine d'année, le secteur bancaire a donc été confronté à de profonds changements. La nécessité d'un nouveau design bancaire est donc apparue afin de faire face comme il se doit à cette révolution économique et sociale. Et, le digital, sous tous ses aspects, s'est présenté comme un tremplin nécessaire et indispensable. L'utilisation du Big Data pour mieux connaître son client, les systèmes de paiement toujours plus rapides et plus sécurisés, le développement de robo-advisors pour venir en aide aux conseillers, les plateformes participatives pour financer les projets, les agences bancaires 3.0, les guichets automatiques dotés d'un écran digital pour le coté user- friendly, le marketing digital pour forger sa propre identité, le développement des application e-Banking, etc. sont autant d'exemples de l'avancée du digital dans le secteur bancaire. Les banques se sont tournées vers le digital pour développer une stratégie omnicanale et mieux ciblée. Aujourd'hui, cela leur permet d'offrir plus que de simples services et produits à leurs clients. Elles leur proposent une réelle expérience. Plus que jamais, la mission de la banque est de générer une rentabilité suffisante tout en tissant des liens avec les utilisateurs. Et, en choisissant sa banque, le client exprime donc clairement son appartenance à une marque. Les tendances actuelles de la digitalisation dans le secteur bancaire comprennent l'adoption croissante des applications mobiles pour les services bancaires, l'intégration de l'intelligence artificielle pour une assistance client personnalisée, l'utilisation de la blockchain pour la sécurisation des transactions, l'expansion des paiements numériques et l'émergence de collaborations entre les banques traditionnelles et les startups fintech pour favoriser l'innovation dans le secteur. Ces tendances de la digitalisation dans le secteur bancaire visent à améliorer l'efficacité opérationnelle, à offrir une expérience client exceptionnelle et à rester compétitives sur le marché en constante évolution.
+
+2.4 Les outils et services digitaux proposés par les banques
+Les banques ont largement adopté la digitalisation pour répondre aux attentes croissantes des clients en matière de services bancaires pratiques, rapides et accessibles. En conséquence, elles proposent aujourd'hui une gamme étendue d'outils et de services digitaux qui permettent aux clients de gérer leurs finances de manière efficace et personnalisée.
+
+2.4.1 Services bancaires en ligne
+Les services bancaires en ligne désignent les services financiers et les opérations bancaires que l'on peut effectuer via Internet. Ces services permettent aux clients d'accéder à leurs comptes bancaires, d'effectuer des transactions, de consulter leurs relevés, de gérer leurs finances et d'effectuer d'autres opérations courantes sans se rendre physiquement dans une agence bancaire. Les services bancaires en ligne offrent généralement les fonctionnalités suivantes :
+
+Consultation des comptes : Les clients peuvent consulter leurs soldes, leurs transactions récentes et l'historique de leurs comptes.
+Virements et paiements : Les clients peuvent effectuer des virements entre leurs propres comptes ou vers d'autres comptes bancaires. Ils peuvent également effectuer des paiements en ligne à des commerçants, des fournisseurs de services ou à d'autres personnes.
+Gestion des bénéficiaires : Les clients peuvent enregistrer les coordonnées des bénéficiaires fréquents pour faciliter les futurs virements ou paiements.
+Commande de chéquiers et de cartes : Les clients peuvent demander des chéquiers, des cartes de crédit ou des cartes de débit supplémentaires.
+	Demande de prêts et de crédits : Les clients peuvent soumettre des demandes de prêts ou de crédits en ligne, et certains services bancaires en ligne offre une réponse immédiate ou rapide.
+Gestion des investissements : Certains services bancaires en ligne permettent aux clients de gérer leurs investissements, d'acheter et de vendre des actions, des obligations ou d'autres instruments financiers.
+Service client en ligne : Les clients peuvent contacter le service client de leur banque par le biais de la messagerie sécurisée, du chat en direct ou du courrier électronique pour obtenir de l'aide ou poser des questions.
+Applications mobiles bancaires
+
+Les applications mobiles bancaires sont des applications spécialement conçues pour les smartphones et les tablettes, permettant aux clients d'accéder facilement aux services bancaires depuis leurs appareils mobiles. Ces applications offrent généralement des fonctionnalités similaires à celles des services bancaires en ligne, mais elles sont optimisées pour une utilisation sur des appareils mobiles.
+
+Consultation des comptes : Les clients peuvent consulter leurs soldes de compte, vérifier les transactions récentes et afficher l'historique des transactions.
+	Virements et paiements : Les clients peuvent effectuer des virements entre leurs comptes, effectuer des paiements en ligne à des commerçants ou à d'autres personnes, et même effectuer des paiements en utilisant des fonctionnalités telles que le paiement sans contact ou le scan de codes QR.
+Alertes et notifications : Les applications envoient souvent des notifications pour informer les clients des transactions importantes, des soldes bas, des échéances de paiement, etc.
+Dépôt de chèques : Certaines applications permettent aux clients de prendre en photo des chèques et de les déposer directement depuis leur appareil mobile, sans avoir à se rendre à la banque.
+Gestion des bénéficiaires : Les clients peuvent gérer leur liste de bénéficiaires pour les virements et les paiements futurs.
+Localisation des agences et des distributeurs automatiques de billets : Les applications peuvent fournir des informations sur les agences bancaires les plus proches, les distributeurs automatiques de billets et les services associés.
+Gestion des cartes de crédit et de débit : Les clients peuvent consulter les transactions de leurs cartes, vérifier les limites de crédit disponibles, effectuer des paiements et bloquer temporairement leurs cartes en cas de perte ou de vol.
+Demande de prêts et de crédits : Certaines applications permettent aux clients de soumettre des demandes de prêts ou de crédits directement depuis leur appareil mobile.
+
+2.4.2 Terminal de paiement électronique (TPE)
+Un terminal de paiement électronique (TPE) est un appareil utilisé dans le commerce et les points de vente pour accepter les paiements électroniques par carte de crédit ou de débit. Les TPE permettent aux commerçants de traiter les transactions en temps réel, en communiquant avec les réseaux de paiement et les banques pour autoriser et effectuer les paiements. Les TPE sont essentiels pour permettre aux commerçants d'accepter les paiements électroniques de manière rapide, sécurisée et pratique, contribuant ainsi à la numérisation des transactions et à la réduction de l'utilisation des espèces.
+
+
+2.4.3 Terminal de paiement électronique Guichet automatique bancaire (GAB)
+Un GAB, ou guichet automatique bancaire, est un appareil électronique utilisé par les clients des banques pour effectuer des opérations bancaires en libre-service. Les GAB, également connus sous le nom de distributeurs automatiques de billets (DAB), sont généralement situés dans des agences bancaires, des centres commerciaux, des stations-service et d'autres lieux publics pour offrir aux clients un accès facile à leur argent liquide et à d'autres services bancaires essentiels en dehors des heures d'ouverture des agences bancaires. Les GAB jouent un rôle essentiel dans la fourniture de services bancaires pratiques et accessibles, permettant aux client
+de réaliser des opérations courantes à tout moment et en tout lieu, sans avoir à se rendre à une agence bancaire.
+
+
+
+2.4.4 Cartes Bancaires
+
+Une carte bancaire est un moyen de paiement émis par une institution financière, généralement une banque, qui permet à son détenteur d'effectuer des transactions électroniques. Voici quelques informations importantes sur les cartes bancaires :
+
+Types de cartes : Il existe différents types de cartes bancaires, tels que les cartes de débit, les cartes de crédit et les cartes prépayées. Les cartes de débit sont liées au compte bancaire du détenteur et les paiements sont prélevés directement sur ce compte. Les cartes de crédit permettent d'emprunter de l'argent jusqu'à une limite prédéfinie et nécessitent un remboursement ultérieur. Les cartes prépayées sont chargées avec un montant préalablement payé et peuvent être utilisées jusqu'à épuisement des fonds.
+Utilisation : Les cartes bancaires peuvent être utilisées pour effectuer des paiements en magasin, en ligne et à l'étranger. Elles sont généralement acceptées dans les commerces équipés de terminaux de paiement électroniques et peuvent être utilisées pour retirer de l'argent aux distributeurs automatiques de billets.
+Sécurité : Les cartes bancaires sont sécurisées par un code confidentiel (PIN) que le détenteur doit saisir lors des transactions. De plus, certaines cartes sont équipées d'une puce électronique (puce EMV) qui offre une sécurité supplémentaire. En cas de perte ou de vol de la carte, il est important de la signaler immédiatement à la banque pour la faire bloquer.
+Frais et coûts : Les cartes bancaires peuvent entraîner des frais et des coûts, tels que des frais annuels, des frais de retrait d'espèces, des frais de conversion de devises étrangères et des intérêts sur les cartes de crédit en cas de non-remboursement intégral du solde.
+	Avantages supplémentaires : De nombreuses cartes bancaires offrent des avantages supplémentaires tels que des programmes de fidélité, des remises en argent, des assurances voyage et des garanties prolongées sur les achats effectués avec la carte.
+
+
+Dans le domaine bancaire, les centres d'appels jouent un rôle essentiel pour offrir un service client de qualité et répondre aux besoins des clients. Voici quelques points spécifiques concernant les centres d'appels dans le secteur bancaire :
+Support client : Les centres d'appels bancaires fournissent un support client pour répondre aux questions des clients, résoudre les problèmes liés à leurs comptes, aux produits ou aux services bancaires. Les agents du centre d'appels sont formés pour aider les clients à gérer leurs opérations bancaires quotidiennes, tels que les demandes de renseignements sur les soldes, les transactions, les virements de fonds, les cartes de crédit, etc.
+Ouverture de compte : Les centres d'appels bancaires peuvent également gérer le processus d'ouverture de compte. Les clients peuvent contacter le centre d'appels pour obtenir des informations sur les types de comptes disponibles, les documents requis, les conditions d'admissibilité, etc. Les agents du centre d'appels guident les clients tout au long du processus d'ouverture de compte et répondent à leurs questions.
+Gestion des produits et services : Les centres d'appels bancaires fournissent des informations détaillées sur les produits et services bancaires, tels que les prêts, les cartes de crédit, les produits d'épargne, les investissements, etc. Les clients peuvent obtenir des conseils sur les options les mieux adaptées à leurs besoins, les taux d'intérêt, les modalités de remboursement, etc.
+Résolution des problèmes : Les centres d'appels bancaires sont équipés pour gérer les plaintes et les problèmes des clients. Les clients peuvent signaler des transactions frauduleuses, des erreurs dans leurs relevés de compte, des problèmes de sécurité ou toute autre situation nécessitant une intervention de la banque. Les agents du centre d'appels travaillent à la résolution de ces problèmes en collaborant avec les départements appropriés au sein de la banque.
+Assistance technique : Les centres d'appels bancaires offrent une assistance technique pour les services bancaires en ligne, les applications mobiles et les outils digitaux associés. Les clients peuvent obtenir de l'aide pour l'installation, la configuration et l'utilisation de ces outils, ainsi que pour résoudre les problèmes techniques rencontrés lors de leur utilisation.
+	Prise de rendez-vous et conseils : Certains centres d'appels bancaires proposent des services de prise de rendez-vous avec des conseillers bancaires ou des experts en investissement. Les clients peuvent planifier des réunions pour discuter de leurs besoins financiers spécifiques, obtenir des conseils sur les investissements, la planification de la retraite, etc.
+Les centres d'appels bancaires jouent un rôle clé dans l'amélioration de l'expérience client, en offrant un accès rapide à des services bancaires et une assistance personnalisée. Ils permettent aux clients de résoudre leurs problèmes, d'obtenir des informations et d'effectuer des opérations bancaires sans avoir à se rendre physiquement dans une agence, offrant ainsi commodité et accessibilité.
+
+2.4.5 Les avantages des outils digitaux bancaires
+
+-Accessibilité et commodité
+-Rapidité des transactions
+-Réduction des coûts
+-Gamme étendue de services
+-Service client amélioré
+
+2.4.6 Les inconvénients des outils digitaux bancaires
+
+-Risque de sécurité
+-Problèmes techniques
+-Absence de contact humain
+-Limitations des fonctionnalités
+-Exclusion numérique
+
+2.5 Les enjeux et impacts de la digitalisation
+
+2.5.1 Enjeux
+La transformation digitale n'est plus un choix ! Il s'agit d'un passage obligé pour assurer sa présence sur le marché. Les banques, qui l'ont bien compris, se sont lancées dans des stratégies de digitalisation innovantes, dans l'objectif de pérenniser l'expérience client. Dans un contexte marqué par la démocratisation d'Internet et des terminaux mobiles, les banques marocaines ont été contraintes de revoir leur modèle opérationnel afin de s'adapter à un marché en pleine mutation et de préserver leurs capacités de croissance. Aujourd'hui, elles mettent à la disposition de leurs clients des services 100% en ligne, à travers des applications mobiles leur assurant un accès complet à la consultation de leurs comptes, et leur facilitant la réalisation d'une panoplie d'opérations telles que les paiements, les virements, les opérations d'épargne, de bourse en ligne ainsi que les demandes de crédits...Bref, le secteur bancaire a ainsi entamé
+un vaste chantier d'innovations pour s'adapter aux nouvelles attentes de sa clientèle en développant, notamment, des services basiques permettant aux utilisateurs de consulter leurs comptes en ligne, des applications dédiées permettant de réaliser un certain nombre d'opérations plus complexes, comme les paiements de factures, les virements, etc. Par ailleurs, les lancements de solutions de paiement mobile, par différents opérateurs de la place, se sont succédés depuis 2018.Cette dynamique de transformation digitale a été accélérée par la crise de la Covid-19. Les clients sont, aujourd'hui, encore plus à l'affût de services à distance, et les banques rivalisent d'ingéniosité pour répondre rapidement à ces besoins. Le contexte sanitaire a donc offert de nouvelles opportunités aux banquiers et aux établissements financiers traditionnels. Les acteurs du secteur ont ainsi pu tirer profit, entre autres, de la praticité des outils numériques et de la dématérialisation des services pour améliorer leurs offres. Malgré cela, la banque traditionnelle n'a nullement perdu de son attrait, puisqu'en réponse au besoin de proximité, les groupes bancaires ont repensé le rôle des agences, lesquelles sont, dorénavant, orientées vers le conseil et le service à haute valeur ajoutée au profit des clients. Faut-il le rappeler, les Marocains, ont un attachement culturel à la dimension humaine des établissements bancaires. Il est donc presque inimaginable de supprimer le rôle des conseillers dans leur relation avec les banques. C'est ainsi que ces dernières ont repensé leurs agences, en les déployant différemment, dans le but d'assurer un conseil sur mesure à la clientèle sur place. En parallèle, les établissements bancaires nationaux continuent de développer d'autres points de contact sur les nouveaux canaux digitaux disponibles. Ainsi, les clients sont à même de créer leur compte totalement en ligne. Au final, ils auront facilement accès aux services de leur banque, via divers canaux (agences physiques, plateformes en ligne, applications mobiles, etc.).Pour assurer la transformation digitale des établissements bancaires, le capital humain, moteur de la transformation, représente un vrai défi. Justement, le développement du digital suppose une nouvelle organisation du travail et une nouvelle manière de penser et d'agir innovante. Car, au-delà de la technologie, il s'agit de transformer les esprits. Le volet humain s'avère être, à cet effet, un axe majeur dans la mise en œuvre des stratégies bancaires. Car qui de mieux que les collaborateurs, pour porter et mettre en exerce la stratégie d'une banque ? En toile de fond de cette mutation, et afin d'assurer un meilleur service à sa clientèle, le secteur bancaire est conscient de la nécessité d'accorder l'intérêt requis au volet de la cyber-sécurité. Voilà pourquoi il travaille d'arrache-pied sur cette problématique, le but étant de préserver les données de leurs clients et de garantir leur sécurité bancaire. Par ailleurs, une nouvelle forme de "bancarisation" a vu le jour sur le marché bancaire national, avec les fintechs et établissements de paiement qui commencent à y affirmer de plus en plus leur présence. À
+caractère hybride, ces derniers proposent une expérience client fluide et des produits basiques certes, mais permettant l'accès à une gamme élargie de services. C'est ce critère qui les rend particulièrement attrayantes, en particulier pour les jeunes. À noter que les services en question portent, essentiellement, sur les opérations de transfert de fonds, de paiement et d'exécution d'opérations de paiement en ligne.
+
+Depuis quelques années, le secteur bancaire connaît une véritable révolution digitale, accélérée par la pandémie de la Covid 19. En effet, la banque traditionnelle s'est vue contrainte de se moderniser en intégrant différentes technologies numériques dans ses processus commerciaux. Cette digitalisation croissante du secteur bancaire est due à différents facteurs d'ordre économique, social et technologique.
+
+Sur le plan économique, on note l'arrivée de nouveaux entrants sur le marché. Il s'agit des banques en ligne / néo-banques (banques sans agences physiques), ou encore fintechs (entreprises innovantes dans la finance) qui viennent concurrencer celles traditionnelles en proposant des tarifs et services plus attractifs.
+Sur le plan social, ce sont les comportements et attentes des clients qui ont évolué. En tant qu'habitués d'Internet, ces derniers ont une préférence pour ce qui est accessible facilement et rapidement (en un clic) via les sites web. De ce fait, ils sont de plus en plus exigeants quant à la qualité des services à leur fournir.
+Enfin dans le domaine de la finance en général, des avancées technologiques de plus en plus sophistiquées sont réalisées (intelligence artificielle, blockchain...) avec pour objectif de construire la banque de demain.
+
+2.5.2 Les Impacts
+Quant à l'introduction de la transformation digitale dans la banque, il est nécessaire de définir certains leviers qui permettront à la banque de gérer et d'optimiser ses relations avec l'ensemble de ses partenaires, clients, collaborateurs ou fournisseurs. Ces leviers permettent de passer de la stratégie à l'activation efficace de la transformation pour atteindre des objectifs précis. Ainsi, les principaux leviers de la transformation digitale portent sur la refonte de l'expérience client, la transformation des processus opérationnels, l'évolution des modes opératoires et des business models. (Béziade, Assayag, 2014) distingue la digitalisation externe (présence de l'entreprise et visibilité des interactions sur les réseaux sociaux), la digitalisation centrale (impact digital sur
+l'écosystème de l'entreprise), la digitalisation interne (impact digital sur les collaborateurs, l'organisation et les processus opérationnels).
+Accès amélioré aux services financiers : La digitalisation a permis aux banques de proposer des services en ligne, ce qui a considérablement amélioré l'accessibilité aux services financiers. Les clients peuvent effectuer des opérations bancaires à tout moment et de n'importe où, en utilisant des applications mobiles, des sites web ou des services bancaires par téléphone. Cela a éliminé la contrainte des horaires de bureau et a facilité la vie des clients.
+Automatisation des processus : Les technologies numériques ont automatisé de nombreux processus bancaires, ce qui a permis de réduire les coûts opérationnels et d'améliorer l'efficacité. Les tâches répétitives telles que la gestion des transactions, l'ouverture de comptes et la vérification des antécédents peuvent être effectuées par des systèmes informatiques, ce qui libère du temps pour les employés et réduit les erreurs humaines.
+Services bancaires en temps réel : La digitalisation a permis aux banques d'offrir des services en temps réel. Les clients peuvent recevoir des notifications instantanées sur leurs transactions, effectuer des virements et des paiements instantanés, et accéder à des informations en temps réel sur leur solde et leur historique de transactions. Cela a considérablement amélioré la transparence et la gestion des finances personnelles.
+Expansion des services bancaires en ligne : Les banques proposent désormais une gamme étendue de services bancaires en ligne, allant de la gestion des comptes courants aux prêts, aux investissements et aux services de conseil financier. Les clients peuvent ouvrir des comptes en ligne, demander des prêts, investir sur les marchés financiers et obtenir des conseils personnalisés, le tout sans avoir à se rendre physiquement dans une succursale.
+Fintech et innovation : La digitalisation a favorisé l'émergence de nombreuses entreprises fintech (technologies financières) qui proposent des services financiers innovants et disruptifs. Ces entreprises utilisent la technologie pour offrir des services financiers plus rapides, moins chers et plus personnalisés. Les banques traditionnelles ont dû s'adapter pour rester compétitives en investissant dans l'innovation et en collaborant avec des fintechs.
+	Sécurité et confidentialité : la digitalisation a également mis en évidence l'importance de la sécurité et de la confidentialité des données financières. Les banques ont dû renforcer leurs mesures de sécurité pour protéger les informations sensibles des clients contre les cyberattaques. Des techniques telles que la biométrie, l'authentification à deux facteurs et le chiffrement des données sont devenues courantes pour garantir la protection des données financières.
+
+La digitalisation s'est énormément développée au cours de ces dernières années, de sorte à toucher la plupart des secteurs d'activité. Il s'est imposé dans le quotidien de tous. Bien entendu, les banques n'ont pas échappé à cette expansion. Elle est d'ailleurs devenue une case obligatoire à cocher pour le progrès des systèmes bancaires, et ce, pour diverses raisons. La multiplication des outils numériques a induit de nouvelles habitudes de consommation chez les clients. Ces derniers ayant pris conscience des facilités apportées par le digital ne pouvaient tout simplement plus s'en passer. Devant ce fait, les banques ont dû se soumettre à une digitalisation de masse. Elle concerne aussi bien les processus que l'organisation même des structures bancaires, et a un but précis. Il s'agit de répondre aux attentes de la clientèle et surtout à la demande des professionnels. Dans un souci d'évolution logique, ces derniers veulent aussi numériser leur gestion financière. Les produits et services de la banque traditionnelle ne répondaient naturellement plus à cette exigence. La digitalisation des banques prend alors tout son sens, car elle a permis la réadaptation des offres bancaires aux réalités du marché. Le développement du digital n'a pas seulement affecté les habitudes du client type de la banque. Il a également modifié plusieurs autres éléments de son profil. Si les banques avaient une clientèle habituée aux interactions physiques (avec les conseillers par exemple), ce n'est plus tellement le cas aujourd'hui. Le profil du client type de la banque met en avant son hyper-connectivité. Ce dernier priorise les opérations numériques simples qui ne nécessitent pas de se déplacer, à moins que la situation l'impose. Ce phénomène prend de l'ampleur avec la grande disponibilité d'appareils favorisant sa présence en ligne. Il s'agit en l'occurrence des ordinateurs et des téléphones portables qui sont devenus des accessoires privilégiés. La digitalisation a donc aidé les banques à rester en contact avec leur clientèle qui est désormais plus tournée vers les écrans. L'intégration du numérique au cœur des systèmes bancaires a donné naissance à la digitalisation. Entièrement dématérialisée, elle est faite pour être la représentation même de la digitalisation des banques. Même si elle est de plus en plus adoptée par la clientèle, son plus grand défi reste la conquête durable du marché professionnel.
+
+2.6 Les solutions, recommandations proposées et perspectives 
+2.6.1 Solutions
+Le secteur des services financiers dans son ensemble est désormais beaucoup plus numérique que ne le prévoyaient les experts de l'époque. La majorité des banques ont établi une présence en ligne et ont progressivement augmenté leur utilisation des canaux numériques au cours des dernières années pour améliorer les offres de services et l'expérience client. Ensuite, la pandémie a agit comme un véritable catalyseur, nous obligeant à introduire de nouvelles fonctionnalités et à accélérer le développement afin de maintenir de solides relations avec nos clients. Ces changements rapides obligent les institutions financières à tout mettre en œuvre pour trouver et conserver un véritable avantage concurrentiel. Les clients d'aujourd'hui s'attendent à pouvoir effectuer toutes les opérations à distance et en toute sécurité, quel que soit leur emplacement. Autrefois différenciatrices, ces fonctionnalités sont désormais incontournables. Le défi d'aujourd'hui est de créer et de maintenir une excellente expérience utilisateur dans un cadre qui se compose principalement de processus numériques et distants. À cet égard, quelle approche les banques et les institutions financières doivent-elles adopter pour répondre aux exigences de sécurité et d'expérience client tout en assurant la fidélisation et l'acquisition de clients ?
+
+Au cœur de cette course à la digitalisation, les banques et institutions financières doivent évaluer comment intégrer au mieux l'humain dans leurs processus. Là où ils s'appuyaient traditionnellement davantage sur des interactions en face à face pour finaliser des contrats complexes et vérifier l'identité des clients, les innovations telles que les signatures électroniques sont désormais essentielles et prioritaires sur ce contact direct. Sans ces nouvelles technologies, certains processus courants comme les demandes de prêt ou l'ouverture de comptes bancaires auraient été plus perturbés pendant la pandémie. Cependant, ces innovations ne suffisent pas à elles seules à répondre aux exigences actuelles de la banque à distance. Lorsqu'il s'agit d'activités bancaires plus complexes, telles que la demande de prêt ou la réalisation d'une transaction d'investissement, les consommateurs ont toujours tendance à rechercher une assistance humaine directe. Ainsi, alors que les ménages du monde entier utilisent de plus en plus la technologie numérique pour certaines transactions, les conseillers financiers personnels restent essentiels à leurs relations avec les grandes banques, selon une étude. 65% sont en effet opposés au remplacement des conseillers virtuels - et leur disponibilité est une priorité. L'introduction de l'assistance humaine dans les activités bancaires numériques est donc cruciale car elle offre une expérience interactive et parfois un soutien émotionnel, gage de fidélisation et de rétention.
+
+Certains ménages sont de plus en plus enclins à changer de banque et à basculer vers des banques 100% en ligne avec des taux d'intérêt plus bas que les banques traditionnelles proposant des services numériques. Les clients sont également plus susceptibles de changer de banque s'ils trouvent d'autres banques plus faciles d'accès aux services. Les banques qui peuvent offrir aux utilisateurs le parcours client le plus fluide possible se démarqueront donc le plus, par exemple grâce à des services vidéo. Ainsi, ces interactions humaines critiques qui facilitent la vie des clients grâce à l'utilisation d'une technologie forte d'authentification à distance et de signature électronique sont autant d'opportunités qu'il existe d'opportunités pour vous différencier de vos concurrents. La possibilité de se connecter avec les clients grâce à la technologie améliore non seulement la fidélisation des clients, mais permet également de conclure plus rapidement des transactions financières complexes. Ces activités à valeur ajoutée nécessitent beaucoup de temps, de réflexion et une compréhension approfondie à la fois du processus et du client. La possibilité de communiquer avec les clients en temps réel permet aux conseillers d'expliquer les termes du contrat aux clients et de réduire la quantité d'informations manquantes ou inexactes. Par conséquent, au-delà des perturbations liées à la pandémie, toutes les banques et institutions financières doivent s'efforcer de remodeler numériquement l'environnement personnel. De nombreuses opportunités numériques ont permis de mettre en place un accompagnement complet et interactif en face à face lors du processus de souscription, similaire à ce qui se fait normalement en face à face. Lorsque les banques font de la protection de cet élément humain une priorité, elles peuvent établir des relations plus solides avec leurs clients et accroître leur efficacité.
+
+2.6.2 Recommandations
+
+Dans cette section, nous présenterons quelques recommandations clés afin de réussir leur processus de digitalisation:
+
+Adopter une approche centrée sur le client : La digitalisation doit être axée sur les besoins et les préférences des clients. Il est essentiel de comprendre les attentes des clients en matière d'expérience utilisateur, de personnalisation des services et de commodité. Les institutions financières doivent recueillir des feedbacks réguliers des clients et ajuster leurs initiatives de digitalisation en conséquence.
+	Investir dans la sécurité et la protection des données : Avec la digitalisation, la sécurité des données est primordiale. Les institutions financières doivent mettre en place des mesures de sécurité robustes pour protéger les informations sensibles des clients et prévenir les cyberattaques. Cela inclut l'utilisation de cryptage des données, d'authentification multi-facteurs et de protocoles de sécurité avancés.
+	Développer des partenariats stratégiques : La digitalisation nécessite souvent des compétences technologiques spécifiques. Les institutions financières peuvent envisager de nouer des partenariats stratégiques avec des entreprises technologiques, des start-ups ou d'autres acteurs du secteur pour accélérer leur transformation digitale. Cela peut leur permettre d'accéder à des technologies innovantes, à des ressources supplémentaires et à une expertise spécialisée.
+	Fournir une formation et un soutien adéquats : L'adoption réussie de la digitalisation nécessite une formation et un soutien appropriés pour les employés et les clients. Les institutions financières doivent investir dans la formation de leur personnel pour développer les compétences numériques nécessaires. De plus, elles doivent fournir un soutien continu aux clients pour les aider à utiliser les nouveaux services et répondre à leurs questions.
+Exploiter les données pour l'analyse et l'innovation : Les données jouent un rôle crucial dans la digitalisation Les institutions financières doivent investir dans des outils d'analyse des données pour extraire des informations précieuses sur les clients, les tendances du marché et les opportunités d'innovation. Cela leur permettra de personnaliser les offres, d'optimiser les processus internes et de prendre des décisions stratégiques basées sur des données.
+Maintenir un équilibre entre le numérique et le physique : Bien que la digitalisation soit essentielle, il est important de maintenir un équilibre entre les canaux numériques et les interactions physiques avec les clients. Certaines personnes préfèrent encore les contacts humains ou ont besoin d'une assistance en personne. Les institutions financières doivent donc offrir une expérience importante pour répondre aux différents besoins des clients.
+
+En suivant ces recommandations, Société générale peut maximiser les avantages de digitalisation, améliorer l'expérience client, stimuler l'innovation et rester compétitives dans un environnement en constante évolution.
+
+2.6.3 Perspectives
+
+Les perspectives de la digitalisation pour Société générale sont prometteuses et ouvrent de nombreuses opportunités pour la banque. Voici quelques perspectives clés de la digitalisation pour Société générale :
+La digitalisation permet à Société générale d'atteindre de nouveaux segments de clients et de renforcer sa présence sur les marchés existants. Les services bancaires mobiles, les applications en ligne et d'autres solutions numériques offrent des possibilités d'inclusion financière pour les populations non bancarisées et les zones rurales. Société générale peut élargir sa base de clients en proposant des services adaptés aux besoins spécifiques de ces segments.
+La digitalisation permet à Société générale d'innover et de développer de nouveaux produits et services. La banque peut créer des solutions numériques avancées telles que des services de paiement mobile, des offres de gestion de patrimoine en ligne, des solutions d'investissement numérique et des services de conseil financier personnalisé. Ces innovations permettent à Société générale de répondre aux besoins évolutifs des clients et de se démarquer de la concurrence.
+La digitalisation offre à Société générale l'opportunité d'améliorer l'expérience client en proposant des services plus rapides, plus pratiques et plus personnalisés. Les clients peuvent accéder à leurs comptes bancaires, effectuer des transactions et obtenir des services bancaires à tout moment et en tout lieu grâce aux canaux numériques. Cela renforce la fidélité des clients et augmente leur satisfaction envers les services de la Société générale.
+La digitalisation permet à Société générale d'améliorer son efficacité opérationnelle en automatisant les processus, en réduisant les délais de traitement et en augmentant la productivité. Les technologies telles que l'intelligence artificielle, l'automatisation des processus robotisés et l'analyse des données aident la banque à rationaliser ses opérations internes, à réduire les coûts et à améliorer l'efficacité des processus.
+La digitalisation offre à Société générale des opportunités de partenariats stratégiques avec des entreprises technologiques, des fintechs et d'autres acteurs de l'écosystème numérique. Ces partenariats permettent à Société générale d'accéder à des technologies innovantes, à des compétences spécialisées et à des ressources supplémentaires pour accélérer sa transformation digitale et développer de nouvelles offres.
+La digitalisation incite Société générale à renforcer ses mesures de sécurité des données et de conformité réglementaire. La banque doit investir dans des protocoles de sécurité robustes, des outils de détection des fraudes et des systèmes de protection des données pour garantir la confiance des clients et la confidentialité de leurs informations financières.
+
+En adoptant une approche proactive de la digitalisation Société générale peut tirer parti de ces perspectives pour renforcer sa position sur le marché, améliorer l'expérience client, accroître sa rentabilité et poursuivre sa croissance dans le secteur bancaire 
+
+
+
+Conclusion
+
+En somme, l'objectif général de ce projet se porte sur l'amélioration de la  stratégie de communication digitale de la société générale. L'étude vise à comprendre les transformations induites par la digitalisation, les opportunités qu'elle offre et les défis auxquels les institutions financières sont confrontées dans ce contexte. Pour atteindre cet objectif, une méthodologie mixte a été utilisée, combinant à la fois une recherche documentaire   approfondie et des entretiens avec des experts du secteur bancaire et des représentants de la Société générale. La recherche documentaire a permis de recueillir des informations sur les tendances  de la digitalisation dans le secteur bancaire, les meilleures pratiques, les études de cas et les rapports d'analyses existants. Les entretiens ont permis d'obtenir des perspectives et des insights  spécifiques sur l'impact de la digitalisation sur Société générale, en mettant l'accent sur les initiatives mises en place, les résultats obtenus et les perspectives d'avenir.
+
+La digitalisation a apporté des transformations profondes, créé de nouvelles opportunités et redéfini la manière dont les services financiers sont fournis. Chez Société générale, la digitalisation a permis d'améliorer l'accessibilité aux services financiers, d'offrir une expérience client améliorée, d'élargir la gamme de produits et de renforcer l'efficacité opérationnelle sur le site web. Les services                 bancaires mobiles, les applications en ligne, les solutions de paiement numérique et les plateformes de conseil financier en ligne sont autant d'exemples, des solutions numériques mises en place par Société générale pour répondre aux besoins changeants des clients. La digitalisation a également ouvert de nouvelles perspectives pour Société générale, notamment l'expansion de la clientèle, l'innovation de produits et services, la possibilité de partenariats stratégiques et l'amélioration de la sécurité des données. Cependant, il est important de souligner que la digitalisation nécessite une approche équilibrée. Il est essentiel de maintenir un équilibre entre  les canaux numériques et les interactions humaines, afin de répondre aux besoins variés des clients. De plus, la sécurité des données et la protection de la vie privée restent des préoccupations majeures, et les institutions financières doivent continuer à investir dans des mesures de sécurité robustes pour protéger les informations des clients. Dans l'ensemble, Société générale se positionne comme un leader de la transformation numérique dans le secteur bancaire. La banque tire parti des opportunités offertes par la digitalisation pour améliorer l'expérience client, innover, étendre sa portée et rester compétitive sur le marché en constante évolution des services financiers. En continuant à investir dans la digitalisation et à anticiper les besoins futurs des clients, Société générale est bien positionnée pour réussir dans cette ère numérique et contribuer à l'inclusion financière en Afrique.
+
+Nous concluons en confirmant que ce projet nous a procuré une grande satisfaction car il nous a permis de mettre en pratique les connaissances théoriques acquises lors de notre cursus et d'apporter notre modeste contribution quant aux questions pratiques de la digitalisation et permettra de comprendre comment la digitalisation a remodelé le paysage bancaire, les opportunités et les défis auxquels sont confrontées les banques, et comment Société générale a utilisé digitalisation pour améliorer ses services, développer son activité et répondre aux besoins de                                                                              ses clients.
+
+
+Bibliographie
+> L'approche des ressources a été développée par Edith Pebrose en 1959.
+> Le concept de compétence fondamentale ou distinctive a été développé par G. Hamel et C.K.Prahalad dans les années 1990.
+> 5 forces de porter mise au point en 1979 par Micheal porter professeur de stratégie d'entreprise.
+> La création du modèle PESTEL est attribuée au professeur de Harvard Francis Joseph Aguilar qui expose sa méthode dans son livre " Scanning the Business Environment " en 1967.
+> Gottfried Leibniz, le concept de digitalisation en 1679.
+
+Webographie
+
+
+
+https://societegenerale.sn/fr/nous-connaitre/
+
+https://societegenerale.sn/fr/nous-connaitre/chiffres-cles/
+
+https://societegenerale.sn/fr/nous-connaitre/notre-reseau-dagences/
+
+https://www.cafpi.fr/credit-immobilier/actualites/qu-est-ce-qu-une-banque-en-ligne 
+
+https://societegenerale.sn/fr/professionnels/cash-management/banque-distance/sogecom/ 
+
+http://bibliotheque.cesag.sn/documents_numeriques/M0066MBA-AG18.pdf 
+
+
+
+
+
+Annexe
+
+Guide d'entretien
+
+1. Quels sont les principaux défis auxquels les banques sont confrontées en termes de transformation numérique ? Comment Société générale Sénégal aborde-t-elle ces défis ?
+
+* Sécurité des données
+* Adoption des technologies émergentes
+* Expérience client améliorée
+* Concurrence des fintechs
+* Réglementation
+
+> Investissement dans les technologies
+> Collaboration avec les fintechs
+> Formation et développement des compétences
+> Mise en place de normes de sécurité élevées
+> Adoption d'une approche centrée sur le client
+
+
+2. Quels sont les principales initiatives de la digitalisation mise en place par la Societé generale ?
+
+
+> SG connect
+> SOGECASHNET
+> Porte-Monnaie Electronique YUP 
+
+
+3. Quels sont les avantages que la la digitalisation a apportés à société générale en termes de services                 bancaires, d'efficacité opérationnelle ?
+> Accessibilité accrue
+
+> Rapidité des transactions
+
+> Commodité et flexibilité
+> Réduction des coûts
+
+> Amélioration de l'expérience client
+
+> Efficacité opérationnelle.
+
+4. Quels sont les inconvénients confrontés en matière de digitalisation?
+
+
+> Risques de sécurité
+> Dépendance technologique
+> Exclusion numérique
+> Besoin de compétences et de formations
+> Vulnérabilité aux pannes techniques
+> Résistance au changement
+
+
+5. Quels sont les technologies clés de la digitalisation bancaire de la société générale ?
+
+
+> Applications mobiles
+> Banque en ligne
+> Paiement mobile
+> Services de traitement automatisé
+> Analyse des données
+> Sécurité et cryptographie
+
+
+6. Quels sont les impacts de la digitalisation sur les relations client banque ?
+
+
+> Accessibilité et disponibilité accrues
+> Interaction rapide et en temps réel
+> Personnalisation des services
+> Automatisation des processus
+> Amélioration de l'expérience client
+> Élargissement des services offerts
+
+7. digitalisation sur les services bancaires ?
+
+
+> Accessibilité et commodité accrues
+
+?Automatisation des processus?Élargissement des services?Personnalisation des services?Réduction des coûts?Amélioration de la sécurité?Innovation et adaptation aux nouvelles tendances
+8.
+Quels sont les opportunités et transformations induites par la digitalisation ?
+?
+Expérience client améliorée?Innovation de produits et de services?Expansion géographique et accès à de nouveaux marchés?Réduction des coûts opérationnels?Renforcement de la sécurité des transactions?Collaboration avec des acteurs externes?Transformation de la culture d'entreprise
+9.
+Quels sont les perspectives futures de la Société general avec la digitalisation?•Expansion numérique•Innovation continue•Amélioration de l'expérience client•Renforcement de la sécurité•Collaboration avec les fintechs•Investissement dans les talents et la formation
+
+                                           
+
+
+	
+Table des matières
+REMERCIEMENTS	I
+SIGLES ET ABRÉVIATIONS	II
+SOMMAIRE	III
+RESUME	IV
+INTRODUCTION	1
+PREMIERE PARTIE : Présentation de l'entreprise Société Générale  et analyse de son environnement	2
+Chapitre 1 : PRESENTATION DE LA Société Générale	2
+1.1 PRESENTATION DE L'ACTIVITE	2
+1.2 ORGANISATION DE LA Société Générale	3
+1.2.1.1  Direction générale	3
+1.2.1.2 Direction juridique	3
+1.2.1.3 Direction risque	3
+1.2.1.4 Direction financière	4
+1.2.1.5  Les métiers de la conformité	5
+1.2.1.6  Direction clientèle particuliers et professionnel	5
+1.2.1.7 Direction commercial entreprises	6
+1.2.1.8 Direction de l'audit	6
+1.2.1.9 Direction marketing, communication et qualité	7
+1.2.1.10 Direction des ressources humaines	7
+1.2.2  Partenaires	7
+1.2.3 Mission de la SOCIETE GENERAL	8
+1.3 PRESENTATION DU SECTEUR	9
+1.3.1 Offre du secteur	9
+1.3.2 Demande du secteur	9
+1.3.3 Enjeux du secteur	9
+Chapitre 2 : Analyse de l'environnement	9
+2.1 : Analyse de l'environnement interne	10
+2.1.1 Diagnostic des ressources	10
+2.1.1.1 Les ressources tangibles	10
+2.1.1.1.1 ressources financières	10
+2.1.1.1.2 Les ressources humaines	10
+2.1.1.1.3 ressources physiques et équipement	11
+2.1.1.2. Les ressources intangibles	11
+2.1.1.2.1 Les ressources technologiques	11
+2.1.1.2.2 Les ressources mercatiques	12
+2.1.1.2.3 Les ressources organisationnelles	13
+2.1.1.2.4 Les ressources stratégiques	13
+2.1.2 Diagnostic des compétences	13
+2.1.3 Diagnostic des Fonctions de l'entreprise	13
+2.1.3.1 La Fonction technique :	13
+2.1.3.2  La fonction commerciale	14
+2.1.3.3    La fonction financière	14
+2.1.3.4    La   Fonction sécurité financière	14
+2.1.3.5   La fonction administrative	14
+2.1.4 Diagnostic de la stratégie marketing ou du marketing mix	14
+2.1.4.1 politique de produit :	15
+2.1.4.2 Politique de prix :	15
+2.1.4.3 La politique de communication	15
+2.1.4.4  La politique de distribution	15
+2.2  L'Environnement externe de l'entreprise	16
+2.2.1 Analyse du microenvironnement de la Société Générale	16
+2.2.1.1 Les principaux partenaires de la Société Générale	19
+2.2.1.2 Le marché bancaire sénégalais :	20
+2.2.1.3 L'analyse concurrentielle	22
+2.2.2 Le macroenvironnement de la Société Générale	22
+2.3 Synthèse des diagnostics : matrice SWOT	28
+SECONDE PARTIE : Processus d'amélioration de la stratégie de communication digitale pour la Société Générale	30
+Chapitre 1 : Analyse de la stratégie de communication digitale de la Société générale	30
+2.1Vision et objectifs de la digitalisation	30
+2.2 Initiatives et projets de digitalisation	31
+2.3 Les avantages et inconvénients de la digitalisation pour la Société générale	32
+2.4 Opportunités et transformations induites par la digitalisation	34
+2.5 Impacts de la digitalisation chez Société générale	35
+Chapitre 2 : Les pistes d'amélioration de la stratégie de communication digitale de la Société générale	39
+2.1Vision et objectifs de la digitalisation	39
+2.2 Définition de la digitalisation bancaire	40
+2.3 Tendances actuelles de la digitalisation dans le secteur bancaire	42
+2.4 Les outils et services digitaux proposés par les banques	43
+2.5 Les enjeux et impacts de la digitalisation	50
+2.6 Les solutions, recommandations proposées et perspectives	54
+Conclusion	60
+Bibliographie	V
+Webographie	V
+Annexe	VI
+Table des matières	X
+
+
+
+
+
+IV
+
+
+23
+
+
+61
+
+
+IX
+
+
+XII
+
+
